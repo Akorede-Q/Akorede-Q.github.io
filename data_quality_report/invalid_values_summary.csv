@@ -1,0 +1,4 @@
+rule,rows,example_file
+non_negative_numeric,2,invalid_non_negative_numeric.csv
+cause_counts_sum_mismatch,108409,invalid_cause_counts_sum_mismatch.csv
+cause_delays_sum_mismatch,666,invalid_cause_delays_sum_mismatch.csv

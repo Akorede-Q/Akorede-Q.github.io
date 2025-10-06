@@ -1,0 +1,951 @@
+year,month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct,weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted,arr_delay,carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2024,12,C5,CommuteAir LLC dba CommuteAir,AUS,"Austin, TX: Austin - Bergstrom International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024,12,G4,Allegiant Air,BTV,"Burlington, VT: Burlington International",,,,,,,,,,,,,,,
+2024,11,C5,CommuteAir LLC dba CommuteAir,DAY,"Dayton, OH: James M Cox/Dayton International",,,,,,,,,,,,,,,
+2024,10,C5,CommuteAir LLC dba CommuteAir,PVD,"Providence, RI: Rhode Island Tf Green International",,,,,,,,,,,,,,,
+2024,9,G7,GoJet Airlines LLC d/b/a United Express,HHH,"Hilton Head, SC: Hilton Head Airport",,,,,,,,,,,,,,,
+2024,9,MQ,Envoy Air,CAE,"Columbia, SC: Columbia Metropolitan",,,,,,,,,,,,,,,
+2024,9,UA,United Air Lines Network,EGE,"Eagle, CO: Eagle County Regional",,,,,,,,,,,,,,,
+2024,9,YX,Republic Airline,GRB,"Green Bay, WI: Green Bay Austin Straubel International",,,,,,,,,,,,,,,
+2024,6,YX,Republic Airline,ITH,"Ithaca/Cortland, NY: Ithaca Tompkins International",,,,,,,,,,,,,,,
+2024,4,UA,United Air Lines Network,MAF,"Midland/Odessa, TX: Midland International Air and Space Port",,,,,,,,,,,,,,,
+2024,4,PT,Piedmont Airlines,CAK,"Akron, OH: Akron-Canton Regional",,,,,,,,,,,,,,,
+2024,3,F9,Frontier Airlines,IAD,"Washington, DC: Washington Dulles International",,,,,,,,,,,,,,,
+2024,3,G7,GoJet Airlines LLC d/b/a United Express,CHO,"Charlottesville, VA: Charlottesville Albemarle",,,,,,,,,,,,,,,
+2024,3,OO,SkyWest Airlines Inc.,GCK,"Garden City, KS: Garden City Regional",,,,,,,,,,,,,,,
+2024,2,ZW,Air Wisconsin Airlines Corp,MQT,"Marquette, MI: Marquette Sawyer Regional",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024,1,ZW,Air Wisconsin Airlines Corp,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024,1,NK,Spirit Airlines,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",,,,,,,,,,,,,,,
+2024,1,OO,SkyWest Airlines Inc.,BPT,"Beaumont/Port Arthur, TX: Jack Brooks Regional",,,,,,,,,,,,,,,
+2024,1,YV,Mesa Airlines Inc.,BTV,"Burlington, VT: Burlington International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024,1,YX,Republic Airline,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024,1,C5,CommuteAir LLC dba CommuteAir,BDL,"Hartford, CT: Bradley International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2024,1,G7,GoJet Airlines LLC d/b/a United Express,CAK,"Akron, OH: Akron-Canton Regional",,,,,,,,,,,,,,,
+2023,12,UA,United Air Lines Network,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",,,,,,,,,,,,,,,
+2023,12,G7,GoJet Airlines LLC d/b/a United Express,SBN,"South Bend, IN: South Bend International",,,,,,,,,,,,,,,
+2023,12,YV,Mesa Airlines Inc.,ROA,"Roanoke, VA: Roanoke Blacksburg Regional",,,,,,,,,,,,,,,
+2023,12,YX,Republic Airline,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",,,,,,,,,,,,,,,
+2023,11,C5,CommuteAir LLC dba CommuteAir,BTV,"Burlington, VT: Burlington International",,,,,,,,,,,,,,,
+2023,11,C5,CommuteAir LLC dba CommuteAir,PVD,"Providence, RI: Rhode Island Tf Green International",,,,,,,,,,,,,,,
+2023,10,YV,Mesa Airlines Inc.,PNS,"Pensacola, FL: Pensacola International",,,,,,,,,,,,,,,
+2023,8,C5,CommuteAir LLC dba CommuteAir,DAY,"Dayton, OH: James M Cox/Dayton International",,,,,,,,,,,,,,,
+2023,8,C5,CommuteAir LLC dba CommuteAir,LBB,"Lubbock, TX: Lubbock Preston Smith International",,,,,,,,,,,,,,,
+2023,8,C5,CommuteAir LLC dba CommuteAir,PWM,"Portland, ME: Portland International Jetport",,,,,,,,,,,,,,,
+2023,8,G7,GoJet Airlines LLC d/b/a United Express,CHS,"Charleston, SC: Charleston AFB/International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,8,YV,Mesa Airlines Inc.,ECP,"Panama City, FL: Northwest Florida Beaches International",,,,,,,,,,,,,,,
+2023,7,G7,GoJet Airlines LLC d/b/a United Express,MYR,"Myrtle Beach, SC: Myrtle Beach International",,,,,,,,,,,,,,,
+2023,7,G7,GoJet Airlines LLC d/b/a United Express,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,7,YV,Mesa Airlines Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",,,,,,,,,,,,,,,
+2023,6,C5,CommuteAir LLC dba CommuteAir,CHS,"Charleston, SC: Charleston AFB/International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,6,G7,GoJet Airlines LLC d/b/a United Express,CLT,"Charlotte, NC: Charlotte Douglas International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,6,MQ,Envoy Air,CLL,"College Station/Bryan, TX: Easterwood Field",,,,,,,,,,,,,,,
+2023,6,MQ,Envoy Air,EUG,"Eugene, OR: Mahlon Sweet Field",,,,,,,,,,,,,,,
+2023,6,MQ,Envoy Air,FSD,"Sioux Falls, SD: Joe Foss Field",,,,,,,,,,,,,,,
+2023,6,MQ,Envoy Air,GRB,"Green Bay, WI: Green Bay Austin Straubel International",,,,,,,,,,,,,,,
+2023,6,MQ,Envoy Air,HPN,"White Plains, NY: Westchester County",,,,,,,,,,,,,,,
+2023,6,MQ,Envoy Air,MLI,"Moline, IL: Quad Cities International",,,,,,,,,,,,,,,
+2023,6,MQ,Envoy Air,RIC,"Richmond, VA: Richmond International",,,,,,,,,,,,,,,
+2023,6,MQ,Envoy Air,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",,,,,,,,,,,,,,,
+2023,6,MQ,Envoy Air,RST,"Rochester, MN: Rochester International",,,,,,,,,,,,,,,
+2023,6,OO,SkyWest Airlines Inc.,MLU,"Monroe, LA: Monroe Regional",,,,,,,,,,,,,,,
+2023,6,OO,SkyWest Airlines Inc.,SPI,"Springfield, IL: Abraham Lincoln Capital",,,,,,,,,,,,,,,
+2023,6,PT,Piedmont Airlines,PWM,"Portland, ME: Portland International Jetport",,,,,,,,,,,,,,,
+2023,6,QX,Horizon Air,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",,,,,,,,,,,,,,,
+2023,6,YV,Mesa Airlines Inc.,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",,,,,,,,,,,,,,,
+2023,5,F9,Frontier Airlines,BFF,"Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",,,,,,,,,,,,,,,
+2023,5,ZW,Air Wisconsin Airlines Corp,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",,,,,,,,,,,,,,,
+2023,4,C5,CommuteAir LLC dba CommuteAir,SYR,"Syracuse, NY: Syracuse Hancock International",,,,,,,,,,,,,,,
+2023,4,G7,GoJet Airlines LLC d/b/a United Express,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",,,,,,,,,,,,,,,
+2023,4,YX,Republic Airline,FSD,"Sioux Falls, SD: Joe Foss Field",,,,,,,,,,,,,,,
+2023,4,ZW,Air Wisconsin Airlines Corp,PVD,"Providence, RI: Rhode Island Tf Green International",,,,,,,,,,,,,,,
+2023,3,MQ,Envoy Air,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",,,,,,,,,,,,,,,
+2023,3,MQ,Envoy Air,DAY,"Dayton, OH: James M Cox/Dayton International",,,,,,,,,,,,,,,
+2023,3,MQ,Envoy Air,FNT,"Flint, MI: Bishop International",,,,,,,,,,,,,,,
+2023,3,OO,SkyWest Airlines Inc.,LAW,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",,,,,,,,,,,,,,,
+2023,3,PT,Piedmont Airlines,CWA,"Mosinee, WI: Central Wisconsin",,,,,,,,,,,,,,,
+2023,3,PT,Piedmont Airlines,DAY,"Dayton, OH: James M Cox/Dayton International",,,,,,,,,,,,,,,
+2023,3,YV,Mesa Airlines Inc.,BUR,"Burbank, CA: Bob Hope",,,,,,,,,,,,,,,
+2023,3,YV,Mesa Airlines Inc.,MLI,"Moline, IL: Quad Cities International",,,,,,,,,,,,,,,
+2023,2,YV,Mesa Airlines Inc.,FSM,"Fort Smith, AR: Fort Smith Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2023,2,YV,Mesa Airlines Inc.,PSP,"Palm Springs, CA: Palm Springs International",,,,,,,,,,,,,,,
+2023,1,DL,Delta Air Lines Network,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",,,,,,,,,,,,,,,
+2023,1,G7,GoJet Airlines LLC d/b/a United Express,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",,,,,,,,,,,,,,,
+2023,1,G7,GoJet Airlines LLC d/b/a United Express,GRR,"Grand Rapids, MI: Gerald R. Ford International",,,,,,,,,,,,,,,
+2023,1,YV,Mesa Airlines Inc.,PNS,"Pensacola, FL: Pensacola International",,,,,,,,,,,,,,,
+2023,1,ZW,Air Wisconsin Airlines Corp,OKC,"Oklahoma City, OK: Will Rogers World",,,,,,,,,,,,,,,
+2022,11,OO,SkyWest Airlines Inc.,HRL,"Harlingen/San Benito, TX: Valley International",,,,,,,,,,,,,,,
+2022,10,DL,Delta Air Lines Network,OAK,"Oakland, CA: Metro Oakland International",,,,,,,,,,,,,,,
+2022,10,OO,SkyWest Airlines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",,,,,,,,,,,,,,,
+2022,10,OO,SkyWest Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,10,YV,Mesa Airlines Inc.,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,10,YV,Mesa Airlines Inc.,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",,,,,,,,,,,,,,,
+2022,9,9E,Endeavor Air Inc.,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",,,,,,,,,,,,,,,
+2022,8,C5,"Commutair Aka Champlain Enterprises, Inc.",ROC,"Rochester, NY: Greater Rochester International",,,,,,,,,,,,,,,
+2022,8,G7,GoJet Airlines LLC d/b/a United Express,MSP,"Minneapolis, MN: Minneapolis-St Paul International",,,,,,,,,,,,,,,
+2022,8,ZW,Air Wisconsin Airlines Corp,ALB,"Albany, NY: Albany International",,,,,,,,,,,,,,,
+2022,8,ZW,Air Wisconsin Airlines Corp,SAV,"Savannah, GA: Savannah/Hilton Head International",,,,,,,,,,,,,,,
+2022,7,YV,Mesa Airlines Inc.,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",,,,,,,,,,,,,,,
+2022,6,G7,GoJet Airlines LLC d/b/a United Express,CMH,"Columbus, OH: John Glenn Columbus International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,5,G7,GoJet Airlines LLC d/b/a United Express,ALB,"Albany, NY: Albany International",,,,,,,,,,,,,,,
+2022,5,G7,GoJet Airlines LLC d/b/a United Express,BGR,"Bangor, ME: Bangor International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,5,ZW,Air Wisconsin Airlines Corp,CHS,"Charleston, SC: Charleston AFB/International",,,,,,,,,,,,,,,
+2022,4,OO,SkyWest Airlines Inc.,LNK,"Lincoln, NE: Lincoln Airport",,,,,,,,,,,,,,,
+2022,4,YV,Mesa Airlines Inc.,MLB,"Melbourne, FL: Melbourne International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,4,YV,Mesa Airlines Inc.,SHV,"Shreveport, LA: Shreveport Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,4,YX,Republic Airline,GRB,"Green Bay, WI: Green Bay Austin Straubel International",,,,,,,,,,,,,,,
+2022,2,C5,"Commutair Aka Champlain Enterprises, Inc.",CHS,"Charleston, SC: Charleston AFB/International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,2,G7,GoJet Airlines LLC d/b/a United Express,LEX,"Lexington, KY: Blue Grass",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,1,C5,"Commutair Aka Champlain Enterprises, Inc.",COD,"Cody, WY: Yellowstone Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,1,C5,"Commutair Aka Champlain Enterprises, Inc.",DSM,"Des Moines, IA: Des Moines International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,1,C5,"Commutair Aka Champlain Enterprises, Inc.",ORF,"Norfolk, VA: Norfolk International",,,,,,,,,,,,,,,
+2022,1,G7,GoJet Airlines LLC d/b/a United Express,MDT,"Harrisburg, PA: Harrisburg International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,1,MQ,Envoy Air,COU,"Columbia, MO: Columbia Regional",,,,,,,,,,,,,,,
+2022,1,OO,SkyWest Airlines Inc.,BOS,"Boston, MA: Logan International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,1,OO,SkyWest Airlines Inc.,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",,,,,,,,,,,,,,,
+2022,1,PT,Piedmont Airlines,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,1,YV,Mesa Airlines Inc.,BOS,"Boston, MA: Logan International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,1,YV,Mesa Airlines Inc.,BTV,"Burlington, VT: Burlington International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,1,YV,Mesa Airlines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,1,YX,Republic Airline,GRB,"Green Bay, WI: Green Bay Austin Straubel International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,1,ZW,Air Wisconsin Airlines Corp,DSM,"Des Moines, IA: Des Moines International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021,12,MQ,Envoy Air,MFE,"Mission/McAllen/Edinburg, TX: McAllen Miller International",,,,,,,,,,,,,,,
+2021,12,YV,Mesa Airlines Inc.,BRO,"Brownsville, TX: Brownsville South Padre Island International",,,,,,,,,,,,,,,
+2021,12,ZW,Air Wisconsin Airlines Corp,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",,,,,,,,,,,,,,,
+2021,10,OO,SkyWest Airlines Inc.,TYR,"Tyler, TX: Tyler Pounds Regional",,,,,,,,,,,,,,,
+2021,10,ZW,Air Wisconsin Airlines Corp,CHS,"Charleston, SC: Charleston AFB/International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021,10,9E,Endeavor Air Inc.,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2021,10,F9,Frontier Airlines,LAX,"Los Angeles, CA: Los Angeles International",,,,,,,,,,,,,,,
+2021,10,OO,SkyWest Airlines Inc.,ABI,"Abilene, TX: Abilene Regional",,,,,,,,,,,,,,,
+2021,10,OO,SkyWest Airlines Inc.,CYS,"Cheyenne, WY: Cheyenne Regional/Jerry Olson Field",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021,9,C5,"Commutair Aka Champlain Enterprises, Inc.",MYR,"Myrtle Beach, SC: Myrtle Beach International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021,9,G7,GoJet Airlines LLC d/b/a United Express,FAR,"Fargo, ND: Hector International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021,9,OO,SkyWest Airlines Inc.,BGR,"Bangor, ME: Bangor International",,,,,,,,,,,,,,,
+2021,9,OO,SkyWest Airlines Inc.,TYR,"Tyler, TX: Tyler Pounds Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021,9,ZW,Air Wisconsin Airlines Corp,SAV,"Savannah, GA: Savannah/Hilton Head International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021,8,YV,Mesa Airlines Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",,,,,,,,,,,,,,,
+2021,8,YX,Republic Airline,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",,,,,,,,,,,,,,,
+2021,8,YX,Republic Airline,LNK,"Lincoln, NE: Lincoln Airport",,,,,,,,,,,,,,,
+2021,8,YX,Republic Airline,MLI,"Moline, IL: Quad City International",,,,,,,,,,,,,,,
+2021,8,ZW,Air Wisconsin Airlines Corp,ACK,"Nantucket, MA: Nantucket Memorial",,,,,,,,,,,,,,,
+2021,8,G7,GoJet Airlines LLC d/b/a United Express,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",,,,,,,,,,,,,,,
+2021,8,G7,GoJet Airlines LLC d/b/a United Express,TYS,"Knoxville, TN: McGhee Tyson",,,,,,,,,,,,,,,
+2021,8,UA,United Air Lines Network,ABQ,"Albuquerque, NM: Albuquerque International Sunport",,,,,,,,,,,,,,,
+2021,7,G7,GoJet Airlines LLC d/b/a United Express,BGR,"Bangor, ME: Bangor International",,,,,,,,,,,,,,,
+2021,7,G7,GoJet Airlines LLC d/b/a United Express,BNA,"Nashville, TN: Nashville International",,,,,,,,,,,,,,,
+2021,7,G7,GoJet Airlines LLC d/b/a United Express,FAR,"Fargo, ND: Hector International",,,,,,,,,,,,,,,
+2021,7,G7,GoJet Airlines LLC d/b/a United Express,LNK,"Lincoln, NE: Lincoln Airport",,,,,,,,,,,,,,,
+2021,7,G7,GoJet Airlines LLC d/b/a United Express,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2021,7,G7,GoJet Airlines LLC d/b/a United Express,XNA,"Fayetteville, AR: Northwest Arkansas Regional",,,,,,,,,,,,,,,
+2021,7,OO,SkyWest Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",,,,,,,,,,,,,,,
+2021,7,YX,Republic Airline,CHA,"Chattanooga, TN: Lovell Field",,,,,,,,,,,,,,,
+2021,7,YX,Republic Airline,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",,,,,,,,,,,,,,,
+2021,7,YX,Republic Airline,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",,,,,,,,,,,,,,,
+2021,7,YX,Republic Airline,PIA,"Peoria, IL: General Downing - Peoria International",,,,,,,,,,,,,,,
+2021,7,ZW,Air Wisconsin Airlines Corp,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",,,,,,,,,,,,,,,
+2021,6,9E,Endeavor Air Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",,,,,,,,,,,,,,,
+2021,6,PT,Piedmont Airlines,DCA,"Washington, DC: Ronald Reagan Washington National",,,,,,,,,,,,,,,
+2021,6,ZW,Air Wisconsin Airlines Corp,BDL,"Hartford, CT: Bradley International",,,,,,,,,,,,,,,
+2021,4,AA,American Airlines Network,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",,,,,,,,,,,,,,,
+2021,3,YV,Mesa Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",,,,,,,,,,,,,,,
+2021,3,YX,Republic Airline,MDT,"Harrisburg, PA: Harrisburg International",,,,,,,,,,,,,,,
+2021,3,YX,Republic Airline,TUL,"Tulsa, OK: Tulsa International",,,,,,,,,,,,,,,
+2021,2,AA,American Airlines Network,LIH,"Lihue, HI: Lihue Airport",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2021,2,DL,Delta Air Lines Network,CAE,"Columbia, SC: Columbia Metropolitan",,,,,,,,,,,,,,,
+2021,1,YV,Mesa Airlines Inc.,MOB,"Mobile, AL: Mobile Regional",,,,,,,,,,,,,,,
+2020,12,OO,SkyWest Airlines Inc.,BDL,"Hartford, CT: Bradley International",,,,,,,,,,,,,,,
+2020,12,OO,SkyWest Airlines Inc.,PWM,"Portland, ME: Portland International Jetport",,,,,,,,,,,,,,,
+2020,12,UA,United Air Lines Network,PNS,"Pensacola, FL: Pensacola International",,,,,,,,,,,,,,,
+2020,12,UA,United Air Lines Network,STL,"St. Louis, MO: St Louis Lambert International",,,,,,,,,,,,,,,
+2020,12,DL,Delta Air Lines Network,BIL,"Billings, MT: Billings Logan International",,,,,,,,,,,,,,,
+2020,12,DL,Delta Air Lines Network,CHA,"Chattanooga, TN: Lovell Field",,,,,,,,,,,,,,,
+2020,12,DL,Delta Air Lines Network,FAI,"Fairbanks, AK: Fairbanks International",,,,,,,,,,,,,,,
+2020,11,C5,"Commutair Aka Champlain Enterprises, Inc.",GSP,"Greer, SC: Greenville-Spartanburg International",,,,,,,,,,,,,,,
+2020,11,G7,GoJet Airlines LLC d/b/a United Express,LEX,"Lexington, KY: Blue Grass",,,,,,,,,,,,,,,
+2020,11,OO,SkyWest Airlines Inc.,ALB,"Albany, NY: Albany International",,,,,,,,,,,,,,,
+2020,11,OO,SkyWest Airlines Inc.,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",,,,,,,,,,,,,,,
+2020,11,OO,SkyWest Airlines Inc.,GRK,"Killeen, TX: Robert Gray AAF",,,,,,,,,,,,,,,
+2020,11,OO,SkyWest Airlines Inc.,LAW,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",4.0,,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,11,OO,SkyWest Airlines Inc.,ROA,"Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",,,,,,,,,,,,,,,
+2020,11,OO,SkyWest Airlines Inc.,ROC,"Rochester, NY: Greater Rochester International",,,,,,,,,,,,,,,
+2020,11,YV,Mesa Airlines Inc.,BTV,"Burlington, VT: Burlington International",,,,,,,,,,,,,,,
+2020,11,YV,Mesa Airlines Inc.,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",,,,,,,,,,,,,,,
+2020,11,YV,Mesa Airlines Inc.,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2020,11,YX,Republic Airline,LNK,"Lincoln, NE: Lincoln Airport",,,,,,,,,,,,,,,
+2020,11,YX,Republic Airline,TVC,"Traverse City, MI: Cherry Capital",,,,,,,,,,,,,,,
+2020,10,9E,Endeavor Air Inc.,ORF,"Norfolk, VA: Norfolk International",,,,,,,,,,,,,,,
+2020,10,C5,"Commutair Aka Champlain Enterprises, Inc.",AVL,"Asheville, NC: Asheville Regional",,,,,,,,,,,,,,,
+2020,10,C5,"Commutair Aka Champlain Enterprises, Inc.",BGR,"Bangor, ME: Bangor International",,,,,,,,,,,,,,,
+2020,10,C5,"Commutair Aka Champlain Enterprises, Inc.",CHO,"Charlottesville, VA: Charlottesville Albemarle",,,,,,,,,,,,,,,
+2020,10,C5,"Commutair Aka Champlain Enterprises, Inc.",CHS,"Charleston, SC: Charleston AFB/International",,,,,,,,,,,,,,,
+2020,10,C5,"Commutair Aka Champlain Enterprises, Inc.",ILM,"Wilmington, NC: Wilmington International",,,,,,,,,,,,,,,
+2020,10,C5,"Commutair Aka Champlain Enterprises, Inc.",MDT,"Harrisburg, PA: Harrisburg International",,,,,,,,,,,,,,,
+2020,10,C5,"Commutair Aka Champlain Enterprises, Inc.",RIC,"Richmond, VA: Richmond International",,,,,,,,,,,,,,,
+2020,10,DL,Delta Air Lines Network,AGS,"Augusta, GA: Augusta Regional at Bush Field",,,,,,,,,,,,,,,
+2020,10,DL,Delta Air Lines Network,ATW,"Appleton, WI: Appleton International",,,,,,,,,,,,,,,
+2020,10,DL,Delta Air Lines Network,AVL,"Asheville, NC: Asheville Regional",,,,,,,,,,,,,,,
+2020,10,DL,Delta Air Lines Network,BUR,"Burbank, CA: Bob Hope",,,,,,,,,,,,,,,
+2020,10,DL,Delta Air Lines Network,LEX,"Lexington, KY: Blue Grass",,,,,,,,,,,,,,,
+2020,10,DL,Delta Air Lines Network,LGB,"Long Beach, CA: Long Beach Airport",,,,,,,,,,,,,,,
+2020,10,DL,Delta Air Lines Network,OAK,"Oakland, CA: Metropolitan Oakland International",,,,,,,,,,,,,,,
+2020,10,G7,GoJet Airlines LLC d/b/a United Express,GSP,"Greer, SC: Greenville-Spartanburg International",,,,,,,,,,,,,,,
+2020,10,OO,SkyWest Airlines Inc.,BOS,"Boston, MA: Logan International",,,,,,,,,,,,,,,
+2020,10,OO,SkyWest Airlines Inc.,CRW,"Charleston/Dunbar, WV: Yeager",,,,,,,,,,,,,,,
+2020,10,OO,SkyWest Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",,,,,,,,,,,,,,,
+2020,10,OO,SkyWest Airlines Inc.,ECP,"Panama City, FL: Northwest Florida Beaches International",,,,,,,,,,,,,,,
+2020,10,OO,SkyWest Airlines Inc.,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",,,,,,,,,,,,,,,
+2020,10,OO,SkyWest Airlines Inc.,MBS,"Saginaw/Bay City/Midland, MI: MBS International",,,,,,,,,,,,,,,
+2020,10,OO,SkyWest Airlines Inc.,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2020,10,OO,SkyWest Airlines Inc.,SPI,"Springfield, IL: Abraham Lincoln Capital",,,,,,,,,,,,,,,
+2020,10,OO,SkyWest Airlines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",,,,,,,,,,,,,,,
+2020,10,YV,Mesa Airlines Inc.,BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",,,,,,,,,,,,,,,
+2020,10,YV,Mesa Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",,,,,,,,,,,,,,,
+2020,10,YV,Mesa Airlines Inc.,RSW,"Fort Myers, FL: Southwest Florida International",,,,,,,,,,,,,,,
+2020,10,YV,Mesa Airlines Inc.,TPA,"Tampa, FL: Tampa International",,,,,,,,,,,,,,,
+2020,10,ZW,Air Wisconsin Airlines Corp,FAR,"Fargo, ND: Hector International",,,,,,,,,,,,,,,
+2020,10,ZW,Air Wisconsin Airlines Corp,LNK,"Lincoln, NE: Lincoln Airport",,,,,,,,,,,,,,,
+2020,10,ZW,Air Wisconsin Airlines Corp,MBS,"Saginaw/Bay City/Midland, MI: MBS International",,,,,,,,,,,,,,,
+2020,9,EV,ExpressJet Airlines LLC,AMA,"Amarillo, TX: Rick Husband Amarillo International",,,,,,,,,,,,,,,
+2020,9,UA,United Air Lines Network,SBA,"Santa Barbara, CA: Santa Barbara Municipal",,,,,,,,,,,,,,,
+2020,8,G4,Allegiant Air,OGS,"Ogdensburg, NY: Ogdensburg International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,8,9E,Endeavor Air Inc.,MCI,"Kansas City, MO: Kansas City International",,,,,,,,,,,,,,,
+2020,7,AS,Alaska Airlines Network,BUR,"Burbank, CA: Bob Hope",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,7,AS,Alaska Airlines Network,TUS,"Tucson, AZ: Tucson International",,,,,,,,,,,,,,,
+2020,7,B6,JetBlue Airways,BQN,"Aguadilla, PR: Rafael Hernandez",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,7,B6,JetBlue Airways,PSE,"Ponce, PR: Mercedita",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,7,OO,SkyWest Airlines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",,,,,,,,,,,,,,,
+2020,7,YV,Mesa Airlines Inc.,BFL,"Bakersfield, CA: Meadows Field",,,,,,,,,,,,,,,
+2020,7,YV,Mesa Airlines Inc.,MKE,"Milwaukee, WI: General Mitchell International",,,,,,,,,,,,,,,
+2020,7,YV,Mesa Airlines Inc.,TYS,"Knoxville, TN: McGhee Tyson",,,,,,,,,,,,,,,
+2020,6,OO,SkyWest Airlines Inc.,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,6,OO,SkyWest Airlines Inc.,ITH,"Ithaca/Cortland, NY: Ithaca Tompkins Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,6,OO,SkyWest Airlines Inc.,ORH,"Worcester, MA: Worcester Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,6,YV,Mesa Airlines Inc.,CHA,"Chattanooga, TN: Lovell Field",,,,,,,,,,,,,,,
+2020,6,YV,Mesa Airlines Inc.,ILM,"Wilmington, NC: Wilmington International",,,,,,,,,,,,,,,
+2020,6,YV,Mesa Airlines Inc.,MLI,"Moline, IL: Quad City International",,,,,,,,,,,,,,,
+2020,6,YV,Mesa Airlines Inc.,PIA,"Peoria, IL: General Downing - Peoria International",,,,,,,,,,,,,,,
+2020,5,DL,Delta Air Lines Network,AVL,"Asheville, NC: Asheville Regional",,,,,,,,,,,,,,,
+2020,5,DL,Delta Air Lines Network,LEX,"Lexington, KY: Blue Grass",,,,,,,,,,,,,,,
+2020,5,DL,Delta Air Lines Network,PVD,"Providence, RI: Theodore Francis Green State",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,EV,ExpressJet Airlines LLC,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",,,,,,,,,,,,,,,
+2020,5,EV,ExpressJet Airlines LLC,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2020,5,EV,ExpressJet Airlines LLC,PWM,"Portland, ME: Portland International Jetport",,,,,,,,,,,,,,,
+2020,5,G4,Allegiant Air,ANC,"Anchorage, AK: Ted Stevens Anchorage International",4.0,,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,G4,Allegiant Air,BLI,"Bellingham, WA: Bellingham International",120.0,,0.0,0.0,0.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,G4,Allegiant Air,BOS,"Boston, MA: Logan International",28.0,,0.0,0.0,0.0,0.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,G4,Allegiant Air,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",18.0,,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,G4,Allegiant Air,HOU,"Houston, TX: William P Hobby",9.0,,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,G4,Allegiant Air,LRD,"Laredo, TX: Laredo International",8.0,,0.0,0.0,0.0,0.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,G4,Allegiant Air,OGS,"Ogdensburg, NY: Ogdensburg International",5.0,,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,G4,Allegiant Air,PSP,"Palm Springs, CA: Palm Springs International",17.0,,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,G4,Allegiant Air,SAN,"San Diego, CA: San Diego International",17.0,,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,G4,Allegiant Air,SJU,"San Juan, PR: Luis Munoz Marin International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,G4,Allegiant Air,TUS,"Tucson, AZ: Tucson International",10.0,,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,G7,GoJet Airlines LLC d/b/a United Express,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,MQ,Envoy Air,BNA,"Nashville, TN: Nashville International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,MQ,Envoy Air,DCA,"Washington, DC: Ronald Reagan Washington National",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,MQ,Envoy Air,HHH,"Hilton Head, SC: Hilton Head Airport",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,OH,PSA Airlines Inc.,BDL,"Hartford, CT: Bradley International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,UA,United Air Lines Network,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,UA,United Air Lines Network,LIH,"Lihue, HI: Lihue Airport",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,UA,United Air Lines Network,OGG,"Kahului, HI: Kahului Airport",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,UA,United Air Lines Network,RIC,"Richmond, VA: Richmond International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,YV,Mesa Airlines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,YV,Mesa Airlines Inc.,MDT,"Harrisburg, PA: Harrisburg International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,YV,Mesa Airlines Inc.,TLH,"Tallahassee, FL: Tallahassee International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,YX,Republic Airline,CLE,"Cleveland, OH: Cleveland-Hopkins International",,,,,,,,,,,,,,,
+2020,5,ZW,Air Wisconsin Airlines Corp,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,5,ZW,Air Wisconsin Airlines Corp,LEX,"Lexington, KY: Blue Grass",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,OO,SkyWest Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",6.0,,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,OO,SkyWest Airlines Inc.,EVV,"Evansville, IN: Evansville Regional",12.0,,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,OO,SkyWest Airlines Inc.,LGA,"New York, NY: LaGuardia",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,OO,SkyWest Airlines Inc.,MYR,"Myrtle Beach, SC: Myrtle Beach International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,OO,SkyWest Airlines Inc.,SCK,"Stockton, CA: Stockton Metropolitan",,,,,,,,,,,,,,,
+2020,4,OO,SkyWest Airlines Inc.,XNA,"Fayetteville, AR: Northwest Arkansas Regional",20.0,,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,PT,Piedmont Airlines,EWN,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,PT,Piedmont Airlines,FWA,"Fort Wayne, IN: Fort Wayne International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,PT,Piedmont Airlines,IND,"Indianapolis, IN: Indianapolis International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,PT,Piedmont Airlines,ORF,"Norfolk, VA: Norfolk International",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,PT,Piedmont Airlines,SAV,"Savannah, GA: Savannah/Hilton Head International",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,UA,United Air Lines Network,BUR,"Burbank, CA: Bob Hope",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,UA,United Air Lines Network,CLT,"Charlotte, NC: Charlotte Douglas International",,,,,,,,,,,,,,,
+2020,4,UA,United Air Lines Network,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,UA,United Air Lines Network,DLH,"Duluth, MN: Duluth International",,,,,,,,,,,,,,,
+2020,4,UA,United Air Lines Network,ITO,"Hilo, HI: Hilo International",4.0,,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,UA,United Air Lines Network,JAX,"Jacksonville, FL: Jacksonville International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,UA,United Air Lines Network,MAF,"Midland/Odessa, TX: Midland International Air and Space Port",,,,,,,,,,,,,,,
+2020,4,UA,United Air Lines Network,SLC,"Salt Lake City, UT: Salt Lake City International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,YV,Mesa Airlines Inc.,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",6.0,,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,YV,Mesa Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",,,,,,,,,,,,,,,
+2020,4,YV,Mesa Airlines Inc.,MKE,"Milwaukee, WI: General Mitchell International",5.0,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,YV,Mesa Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",,,,,,,,,,,,,,,
+2020,4,YV,Mesa Airlines Inc.,OAK,"Oakland, CA: Metropolitan Oakland International",5.0,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,YX,Republic Airline,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",,,,,,,,,,,,,,,
+2020,4,YX,Republic Airline,DAB,"Daytona Beach, FL: Daytona Beach International",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,YX,Republic Airline,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,YX,Republic Airline,HRL,"Harlingen/San Benito, TX: Valley International",,,,,,,,,,,,,,,
+2020,4,YX,Republic Airline,LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",,,,,,,,,,,,,,,
+2020,4,YX,Republic Airline,MKE,"Milwaukee, WI: General Mitchell International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,YX,Republic Airline,PNS,"Pensacola, FL: Pensacola International",6.0,,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,ZW,Air Wisconsin Airlines Corp,AVL,"Asheville, NC: Asheville Regional",,,,,,,,,,,,,,,
+2020,4,ZW,Air Wisconsin Airlines Corp,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",,,,,,,,,,,,,,,
+2020,4,ZW,Air Wisconsin Airlines Corp,BUF,"Buffalo, NY: Buffalo Niagara International",,,,,,,,,,,,,,,
+2020,4,ZW,Air Wisconsin Airlines Corp,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",,,,,,,,,,,,,,,
+2020,4,ZW,Air Wisconsin Airlines Corp,ERI,"Erie, PA: Erie International/Tom Ridge Field",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,ZW,Air Wisconsin Airlines Corp,FNT,"Flint, MI: Bishop International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,ZW,Air Wisconsin Airlines Corp,ITH,"Ithaca/Cortland, NY: Ithaca Tompkins Regional",,,,,,,,,,,,,,,
+2020,4,ZW,Air Wisconsin Airlines Corp,MHT,"Manchester, NH: Manchester-Boston Regional",,,,,,,,,,,,,,,
+2020,4,ZW,Air Wisconsin Airlines Corp,MLI,"Moline, IL: Quad City International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,ZW,Air Wisconsin Airlines Corp,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2020,4,ZW,Air Wisconsin Airlines Corp,SYR,"Syracuse, NY: Syracuse Hancock International",,,,,,,,,,,,,,,
+2020,4,ZW,Air Wisconsin Airlines Corp,TYS,"Knoxville, TN: McGhee Tyson",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,AUS,"Austin, TX: Austin - Bergstrom International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,BNA,"Nashville, TN: Nashville International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,CAE,"Columbia, SC: Columbia Metropolitan",,,,,,,,,,,,,,,
+2020,4,9E,Endeavor Air Inc.,CAK,"Akron, OH: Akron-Canton Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,CHS,"Charleston, SC: Charleston AFB/International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",20.0,,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,EWR,"Newark, NJ: Newark Liberty International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,EYW,"Key West, FL: Key West International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,FWA,"Fort Wayne, IN: Fort Wayne International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,GSP,"Greer, SC: Greenville-Spartanburg International",8.0,,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,IAD,"Washington, DC: Washington Dulles International",13.0,,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,JAX,"Jacksonville, FL: Jacksonville International",,,,,,,,,,,,,,,
+2020,4,9E,Endeavor Air Inc.,LAN,"Lansing, MI: Capital Region International",,,,,,,,,,,,,,,
+2020,4,9E,Endeavor Air Inc.,LGA,"New York, NY: LaGuardia",112.0,,0.0,0.0,0.0,0.0,0.0,112.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,MDW,"Chicago, IL: Chicago Midway International",5.0,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,ORD,"Chicago, IL: Chicago O'Hare International",4.0,,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,ORF,"Norfolk, VA: Norfolk International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,RIC,"Richmond, VA: Richmond International",15.0,,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,SAV,"Savannah, GA: Savannah/Hilton Head International",23.0,,0.0,0.0,0.0,0.0,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,9E,Endeavor Air Inc.,TPA,"Tampa, FL: Tampa International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,AA,American Airlines Network,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",15.0,,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,AA,American Airlines Network,LIH,"Lihue, HI: Lihue Airport",11.0,,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,AA,American Airlines Network,OGG,"Kahului, HI: Kahului Airport",29.0,,0.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,AX,Trans States Airlines,AMA,"Amarillo, TX: Rick Husband Amarillo International",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,COD,"Cody, WY: Yellowstone Regional",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,CPR,"Casper, WY: Casper/Natrona County International",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,DIK,"Dickinson, ND: Dickinson - Theodore Roosevelt Regional",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,DRO,"Durango, CO: Durango La Plata County",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,ELP,"El Paso, TX: El Paso International",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,FCA,"Kalispell, MT: Glacier Park International",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,FLG,"Flagstaff, AZ: Flagstaff Pulliam",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,HDN,"Hayden, CO: Yampa Valley",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,HLN,"Helena, MT: Helena Regional",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,IDA,"Idaho Falls, ID: Idaho Falls Regional",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,LNK,"Lincoln, NE: Lincoln Airport",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,MLI,"Moline, IL: Quad City International",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,MTJ,"Montrose/Delta, CO: Montrose Regional",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,SAF,"Santa Fe, NM: Santa Fe Municipal",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,SCE,"State College, PA: University Park",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,SDF,"Louisville, KY: Louisville Muhammad Ali International",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,SGF,"Springfield, MO: Springfield-Branson National",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,TUL,"Tulsa, OK: Tulsa International",,,,,,,,,,,,,,,
+2020,4,AX,Trans States Airlines,XWA,"Williston, ND: Williston Basin International",,,,,,,,,,,,,,,
+2020,4,B6,JetBlue Airways,BQN,"Aguadilla, PR: Rafael Hernandez",10.0,,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,B6,JetBlue Airways,BZN,"Bozeman, MT: Bozeman Yellowstone International",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,B6,JetBlue Airways,PSE,"Ponce, PR: Mercedita",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,C5,"Commutair Aka Champlain Enterprises, Inc.",BTV,"Burlington, VT: Burlington International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,C5,"Commutair Aka Champlain Enterprises, Inc.",CHO,"Charlottesville, VA: Charlottesville Albemarle",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,C5,"Commutair Aka Champlain Enterprises, Inc.",CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,C5,"Commutair Aka Champlain Enterprises, Inc.",MKE,"Milwaukee, WI: General Mitchell International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,C5,"Commutair Aka Champlain Enterprises, Inc.",MSN,"Madison, WI: Dane County Regional-Truax Field",,,,,,,,,,,,,,,
+2020,4,C5,"Commutair Aka Champlain Enterprises, Inc.",RIC,"Richmond, VA: Richmond International",,,,,,,,,,,,,,,
+2020,4,C5,"Commutair Aka Champlain Enterprises, Inc.",STL,"St. Louis, MO: St Louis Lambert International",,,,,,,,,,,,,,,
+2020,4,CP,Compass Airlines,DEN,"Denver, CO: Denver International",18.0,,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,CP,Compass Airlines,FAT,"Fresno, CA: Fresno Yosemite International",12.0,,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,CP,Compass Airlines,IAH,"Houston, TX: George Bush Intercontinental/Houston",11.0,,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,CP,Compass Airlines,OMA,"Omaha, NE: Eppley Airfield",6.0,,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,CP,Compass Airlines,RNO,"Reno, NV: Reno/Tahoe International",24.0,,0.0,0.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,CP,Compass Airlines,SLC,"Salt Lake City, UT: Salt Lake City International",6.0,,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,DL,Delta Air Lines Network,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,CRW,"Charleston/Dunbar, WV: Yeager",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,DLH,"Duluth, MN: Duluth International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,DL,Delta Air Lines Network,FAI,"Fairbanks, AK: Fairbanks International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,DL,Delta Air Lines Network,FAR,"Fargo, ND: Hector International",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,FAY,"Fayetteville, NC: Fayetteville Regional/Grannis Field",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,FCA,"Kalispell, MT: Glacier Park International",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,FNT,"Flint, MI: Bishop International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,DL,Delta Air Lines Network,FSD,"Sioux Falls, SD: Joe Foss Field",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,DL,Delta Air Lines Network,GNV,"Gainesville, FL: Gainesville Regional",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,DL,Delta Air Lines Network,GRB,"Green Bay, WI: Green Bay Austin Straubel International",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,ILM,"Wilmington, NC: Wilmington International",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,MHT,"Manchester, NH: Manchester-Boston Regional",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,MOB,"Mobile, AL: Mobile Regional",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,PHF,"Newport News/Williamsburg, VA: Newport News/Williamsburg International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,DL,Delta Air Lines Network,PWM,"Portland, ME: Portland International Jetport",6.0,,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,DL,Delta Air Lines Network,RAP,"Rapid City, SD: Rapid City Regional",,,,,,,,,,,,,,,
+2020,4,DL,Delta Air Lines Network,XNA,"Fayetteville, AR: Northwest Arkansas Regional",,,,,,,,,,,,,,,
+2020,4,EV,ExpressJet Airlines LLC,BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",,,,,,,,,,,,,,,
+2020,4,EV,ExpressJet Airlines LLC,CHA,"Chattanooga, TN: Lovell Field",,,,,,,,,,,,,,,
+2020,4,EV,ExpressJet Airlines LLC,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,EV,ExpressJet Airlines LLC,CWA,"Mosinee, WI: Central Wisconsin",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,EV,ExpressJet Airlines LLC,HRL,"Harlingen/San Benito, TX: Valley International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,EV,ExpressJet Airlines LLC,OMA,"Omaha, NE: Eppley Airfield",,,,,,,,,,,,,,,
+2020,4,EV,ExpressJet Airlines LLC,SAT,"San Antonio, TX: San Antonio International",6.0,,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,F9,Frontier Airlines,BFM,"Mobile, AL: Mobile Downtown",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,F9,Frontier Airlines,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,F9,Frontier Airlines,CHS,"Charleston, SC: Charleston AFB/International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,F9,Frontier Airlines,FAR,"Fargo, ND: Hector International",4.0,,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,F9,Frontier Airlines,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",9.0,,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,F9,Frontier Airlines,MYR,"Myrtle Beach, SC: Myrtle Beach International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,F9,Frontier Airlines,PSP,"Palm Springs, CA: Palm Springs International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,F9,Frontier Airlines,SAV,"Savannah, GA: Savannah/Hilton Head International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,F9,Frontier Airlines,TYR,"Tyler, TX: Tyler Pounds Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,ABQ,"Albuquerque, NM: Albuquerque International Sunport",4.0,,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,AUS,"Austin, TX: Austin - Bergstrom International",31.0,,0.0,0.0,0.0,0.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,BOI,"Boise, ID: Boise Air Terminal",18.0,,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",28.0,,0.0,0.0,0.0,0.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,CHA,"Chattanooga, TN: Lovell Field",12.0,,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,CHS,"Charleston, SC: Charleston AFB/International",34.0,,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,CKB,"Clarksburg/Fairmont, WV: North Central West Virginia",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,DAY,"Dayton, OH: James M Cox/Dayton International",16.0,,0.0,0.0,0.0,0.0,0.0,14.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,DEN,"Denver, CO: Denver International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,ELP,"El Paso, TX: El Paso International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,EUG,"Eugene, OR: Mahlon Sweet Field",21.0,,0.0,0.0,0.0,0.0,0.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,EVV,"Evansville, IN: Evansville Regional",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,EWR,"Newark, NJ: Newark Liberty International",32.0,,0.0,0.0,0.0,0.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,FCA,"Kalispell, MT: Glacier Park International",14.0,,0.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,GJT,"Grand Junction, CO: Grand Junction Regional",9.0,,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,GSO,"Greensboro/High Point, NC: Piedmont Triad International",12.0,,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,GSP,"Greer, SC: Greenville-Spartanburg International",17.0,,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",19.0,,0.0,0.0,0.0,0.0,0.0,18.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,JAX,"Jacksonville, FL: Jacksonville International",34.0,,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,LRD,"Laredo, TX: Laredo International",5.0,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,MCI,"Kansas City, MO: Kansas City International",10.0,,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,MFE,"Mission/McAllen/Edinburg, TX: McAllen Miller International",14.0,,0.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,MFR,"Medford, OR: Rogue Valley International - Medford",10.0,,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,MRY,"Monterey, CA: Monterey Regional",5.0,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",45.0,,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,MYR,"Myrtle Beach, SC: Myrtle Beach International",6.0,,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,OAK,"Oakland, CA: Metropolitan Oakland International",11.0,,0.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,OGD,"Ogden, UT: Ogden-Hinckley",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,OGS,"Ogdensburg, NY: Ogdensburg International",9.0,,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,OKC,"Oklahoma City, OK: Will Rogers World",12.0,,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,OMA,"Omaha, NE: Eppley Airfield",23.0,,0.0,0.0,0.0,0.0,0.0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,ORF,"Norfolk, VA: Norfolk International",29.0,,0.0,0.0,0.0,0.0,0.0,28.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,OWB,"Owensboro, KY: Owensboro Daviess County Regional",5.0,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",27.0,,0.0,0.0,0.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,RDM,"Bend/Redmond, OR: Roberts Field",9.0,,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,RIC,"Richmond, VA: Richmond International",29.0,,0.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,RNO,"Reno, NV: Reno/Tahoe International",16.0,,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,SAN,"San Diego, CA: San Diego International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,SAT,"San Antonio, TX: San Antonio International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,SCE,"State College, PA: University Park",14.0,,0.0,0.0,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,SHV,"Shreveport, LA: Shreveport Regional",5.0,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,SJU,"San Juan, PR: Luis Munoz Marin International",5.0,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,SMX,"Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",5.0,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,SPI,"Springfield, IL: Abraham Lincoln Capital",12.0,,0.0,0.0,0.0,0.0,0.0,8.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,TUL,"Tulsa, OK: Tulsa International",15.0,,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,TUS,"Tucson, AZ: Tucson International",8.0,,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",71.0,,0.0,0.0,0.0,0.0,0.0,71.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G4,Allegiant Air,XNA,"Fayetteville, AR: Northwest Arkansas Regional",30.0,,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,G7,GoJet Airlines LLC d/b/a United Express,DSM,"Des Moines, IA: Des Moines International",,,,,,,,,,,,,,,
+2020,4,G7,GoJet Airlines LLC d/b/a United Express,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",,,,,,,,,,,,,,,
+2020,4,HA,Hawaiian Airlines Network,PPG,"Pago Pago, TT: Pago Pago International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,MQ,Envoy Air,DEN,"Denver, CO: Denver International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,MQ,Envoy Air,GNV,"Gainesville, FL: Gainesville Regional",6.0,,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,MQ,Envoy Air,HHH,"Hilton Head, SC: Hilton Head Airport",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,MQ,Envoy Air,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",5.0,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,MQ,Envoy Air,JFK,"New York, NY: John F. Kennedy International",,,,,,,,,,,,,,,
+2020,4,MQ,Envoy Air,MIA,"Miami, FL: Miami International",94.0,,0.0,0.0,0.0,0.0,0.0,94.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,MQ,Envoy Air,SAV,"Savannah, GA: Savannah/Hilton Head International",6.0,,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,NK,Spirit Airlines,AVL,"Asheville, NC: Asheville Regional",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,NK,Spirit Airlines,BDL,"Hartford, CT: Bradley International",56.0,,0.0,0.0,0.0,0.0,0.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,NK,Spirit Airlines,BQN,"Aguadilla, PR: Rafael Hernandez",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,NK,Spirit Airlines,CRW,"Charleston/Dunbar, WV: Yeager",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,NK,Spirit Airlines,EWR,"Newark, NJ: Newark Liberty International",106.0,,0.0,0.0,0.0,0.0,0.0,106.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,NK,Spirit Airlines,IAG,"Niagara Falls, NY: Niagara Falls International",9.0,,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,NK,Spirit Airlines,LGA,"New York, NY: LaGuardia",77.0,,0.0,0.0,0.0,0.0,0.0,77.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,NK,Spirit Airlines,PBG,"Plattsburgh, NY: Plattsburgh International",7.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,NK,Spirit Airlines,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",18.0,,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,OH,PSA Airlines Inc.,ALB,"Albany, NY: Albany International",13.0,,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,OH,PSA Airlines Inc.,LAN,"Lansing, MI: Capital Region International",5.0,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,OH,PSA Airlines Inc.,LGA,"New York, NY: LaGuardia",22.0,,0.0,0.0,0.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,OH,PSA Airlines Inc.,MGM,"Montgomery, AL: Montgomery Regional",15.0,,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,4,OH,PSA Airlines Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",8.0,,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,3,G7,GoJet Airlines LLC d/b/a United Express,TVC,"Traverse City, MI: Cherry Capital",,,,,,,,,,,,,,,
+2020,3,UA,United Air Lines Network,MYR,"Myrtle Beach, SC: Myrtle Beach International",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,3,YV,Mesa Airlines Inc.,HRL,"Harlingen/San Benito, TX: Valley International",,,,,,,,,,,,,,,
+2020,3,YX,Republic Airline,BZN,"Bozeman, MT: Bozeman Yellowstone International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,3,EV,ExpressJet Airlines LLC,RST,"Rochester, MN: Rochester International",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,3,F9,Frontier Airlines,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,3,AX,Trans States Airlines,CLE,"Cleveland, OH: Cleveland-Hopkins International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,3,C5,"Commutair Aka Champlain Enterprises, Inc.",BDL,"Hartford, CT: Bradley International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,3,C5,"Commutair Aka Champlain Enterprises, Inc.",LEX,"Lexington, KY: Blue Grass",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,3,EV,ExpressJet Airlines LLC,HPN,"White Plains, NY: Westchester County",,,,,,,,,,,,,,,
+2020,2,9E,Endeavor Air Inc.,ALB,"Albany, NY: Albany International",,,,,,,,,,,,,,,
+2020,2,EV,ExpressJet Airlines LLC,PIA,"Peoria, IL: General Downing - Peoria International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,2,YX,Republic Airline,GRB,"Green Bay, WI: Green Bay Austin Straubel International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,1,AX,Trans States Airlines,CRW,"Charleston/Dunbar, WV: Yeager",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,1,C5,"Commutair Aka Champlain Enterprises, Inc.",MHT,"Manchester, NH: Manchester-Boston Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2020,1,EV,ExpressJet Airlines LLC,CRW,"Charleston/Dunbar, WV: Yeager",,,,,,,,,,,,,,,
+2020,1,OH,PSA Airlines Inc.,TOL,"Toledo, OH: Toledo Express",,,,,,,,,,,,,,,
+2020,1,OO,SkyWest Airlines Inc.,COD,"Cody, WY: Yellowstone Regional",,,,,,,,,,,,,,,
+2019,12,OO,SkyWest Airlines Inc.,MLB,"Melbourne, FL: Melbourne Orlando International",,,,,,,,,,,,,,,
+2019,10,9E,Endeavor Air Inc.,CRW,"Charleston/Dunbar, WV: Yeager",,,,,,,,,,,,,,,
+2019,10,CP,Compass Airlines,MCI,"Kansas City, MO: Kansas City International",,,,,,,,,,,,,,,
+2019,10,DL,Delta Air Lines Network,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",,,,,,,,,,,,,,,
+2019,9,C5,"Commutair Aka Champlain Enterprises, Inc.",SCE,"State College, PA: University Park",,,,,,,,,,,,,,,
+2019,9,DL,Delta Air Lines Network,TVC,"Traverse City, MI: Cherry Capital",,,,,,,,,,,,,,,
+2019,9,EV,ExpressJet Airlines LLC,AVL,"Asheville, NC: Asheville Regional",,,,,,,,,,,,,,,
+2019,9,EV,ExpressJet Airlines LLC,ERI,"Erie, PA: Erie International/Tom Ridge Field",,,,,,,,,,,,,,,
+2019,9,G7,GoJet Airlines LLC d/b/a United Express,EGE,"Eagle, CO: Eagle County Regional",,,,,,,,,,,,,,,
+2019,9,PT,Piedmont Airlines,CHA,"Chattanooga, TN: Lovell Field",,,,,,,,,,,,,,,
+2019,8,C5,"Commutair Aka Champlain Enterprises, Inc.",ILM,"Wilmington, NC: Wilmington International",,,,,,,,,,,,,,,
+2019,7,G7,GoJet Airlines LLC d/b/a United Express,MIA,"Miami, FL: Miami International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019,7,PT,Piedmont Airlines,PIT,"Pittsburgh, PA: Pittsburgh International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019,6,9E,Endeavor Air Inc.,FAR,"Fargo, ND: Hector International",,,,,,,,,,,,,,,
+2019,6,9E,Endeavor Air Inc.,MDW,"Chicago, IL: Chicago Midway International",,,,,,,,,,,,,,,
+2019,5,9E,Endeavor Air Inc.,CHS,"Charleston, SC: Charleston AFB/International",,,,,,,,,,,,,,,
+2019,5,9E,Endeavor Air Inc.,OMA,"Omaha, NE: Eppley Airfield",,,,,,,,,,,,,,,
+2019,5,CP,Compass Airlines,STL,"St. Louis, MO: St Louis Lambert International",,,,,,,,,,,,,,,
+2019,5,G7,GoJet Airlines LLC d/b/a United Express,ORF,"Norfolk, VA: Norfolk International",,,,,,,,,,,,,,,
+2019,5,G7,GoJet Airlines LLC d/b/a United Express,ROA,"Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",,,,,,,,,,,,,,,
+2019,5,OO,SkyWest Airlines Inc.,MHT,"Manchester, NH: Manchester-Boston Regional",,,,,,,,,,,,,,,
+2019,5,ZW,Air Wisconsin Airlines Corp,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",,,,,,,,,,,,,,,
+2019,4,YX,Republic Airline,HOU,"Houston, TX: William P Hobby",,,,,,,,,,,,,,,
+2019,4,ZW,Air Wisconsin Airlines Corp,CLE,"Cleveland, OH: Cleveland-Hopkins International",,,,,,,,,,,,,,,
+2019,4,9E,Endeavor Air Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",,,,,,,,,,,,,,,
+2019,4,EV,ExpressJet Airlines LLC,LNK,"Lincoln, NE: Lincoln Airport",,,,,,,,,,,,,,,
+2019,3,9E,Endeavor Air Inc.,BQK,"Brunswick, GA: Brunswick Golden Isles",,,,,,,,,,,,,,,
+2019,3,EV,ExpressJet Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019,2,DL,Delta Air Lines Network,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019,2,ZW,Air Wisconsin Airlines Corp,MEM,"Memphis, TN: Memphis International",,,,,,,,,,,,,,,
+2019,1,9E,Endeavor Air Inc.,RAP,"Rapid City, SD: Rapid City Regional",,,,,,,,,,,,,,,
+2019,1,UA,United Air Lines Network,MKE,"Milwaukee, WI: General Mitchell International",,,,,,,,,,,,,,,
+2019,1,YV,Mesa Airlines Inc.,MDT,"Harrisburg, PA: Harrisburg International",,,,,,,,,,,,,,,
+2019,1,EV,ExpressJet Airlines Inc.,SAF,"Santa Fe, NM: Santa Fe Municipal",3.0,,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2019,1,OO,SkyWest Airlines Inc.,BMI,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",,,,,,,,,,,,,,,
+2018,12,EV,ExpressJet Airlines Inc.,LNK,"Lincoln, NE: Lincoln Airport",,,,,,,,,,,,,,,
+2018,11,OH,PSA Airlines Inc.,ROA,"Roanoke, VA: Roanoke Blacksburg Regional",,,,,,,,,,,,,,,
+2018,11,ZW,Air Wisconsin Airlines Corp,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2018,10,9E,Endeavor Air Inc.,ABY,"Albany, GA: Southwest Georgia Regional",,,,,,,,,,,,,,,
+2018,10,9E,Endeavor Air Inc.,BQK,"Brunswick, GA: Brunswick Golden Isles",,,,,,,,,,,,,,,
+2018,10,9E,Endeavor Air Inc.,VLD,"Valdosta, GA: Valdosta Regional",,,,,,,,,,,,,,,
+2018,10,G7,GoJet Airlines LLC d/b/a United Express,IAH,"Houston, TX: George Bush Intercontinental/Houston",,,,,,,,,,,,,,,
+2018,10,OO,SkyWest Airlines Inc.,EWN,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",,,,,,,,,,,,,,,
+2018,10,OO,SkyWest Airlines Inc.,FSM,"Fort Smith, AR: Fort Smith Regional",,,,,,,,,,,,,,,
+2018,10,OO,SkyWest Airlines Inc.,MFE,"Mission/McAllen/Edinburg, TX: McAllen Miller International",,,,,,,,,,,,,,,
+2018,9,CP,Compass Airlines,IDA,"Idaho Falls, ID: Idaho Falls Regional",,,,,,,,,,,,,,,
+2018,9,CP,Compass Airlines,RDM,"Bend/Redmond, OR: Roberts Field",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2018,9,G7,GoJet Airlines LLC d/b/a United Express,SAV,"Savannah, GA: Savannah/Hilton Head International",,,,,,,,,,,,,,,
+2018,9,OO,SkyWest Airlines Inc.,ABY,"Albany, GA: Southwest Georgia Regional",,,,,,,,,,,,,,,
+2018,8,AX,Trans States Airlines,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2018,8,EV,ExpressJet Airlines Inc.,PIA,"Peoria, IL: General Downing - Peoria International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2018,8,MQ,Envoy Air,BRO,"Brownsville, TX: Brownsville South Padre Island International",,,,,,,,,,,,,,,
+2018,7,9E,Endeavor Air Inc.,MQT,"Marquette, MI: Sawyer International",,,,,,,,,,,,,,,
+2018,7,G4,Allegiant Air,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",,,,,,,,,,,,,,,
+2018,7,UA,United Air Lines Network,SBA,"Santa Barbara, CA: Santa Barbara Municipal",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2018,6,EV,ExpressJet Airlines Inc.,CHO,"Charlottesville, VA: Charlottesville Albemarle",,,,,,,,,,,,,,,
+2018,4,AX,Trans States Airlines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2018,4,DL,Delta Air Lines Network,MTJ,"Montrose/Delta, CO: Montrose Regional",,,,,,,,,,,,,,,
+2018,4,EV,ExpressJet Airlines Inc.,RSW,"Fort Myers, FL: Southwest Florida International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2018,4,G7,GoJet Airlines LLC d/b/a United Express,GSO,"Greensboro/High Point, NC: Piedmont Triad International",,,,,,,,,,,,,,,
+2018,4,QX,Horizon Air,DTW,"Detroit, MI: Detroit Metro Wayne County",,,,,,,,,,,,,,,
+2018,4,QX,Horizon Air,HNL,"Honolulu, HI: Daniel K Inouye International",,,,,,,,,,,,,,,
+2018,3,9E,Endeavor Air Inc.,CAK,"Akron, OH: Akron-Canton Regional",,,,,,,,,,,,,,,
+2018,3,9E,Endeavor Air Inc.,GRB,"Green Bay, WI: Green Bay Austin Straubel International",,,,,,,,,,,,,,,
+2018,3,9E,Endeavor Air Inc.,LNK,"Lincoln, NE: Lincoln Airport",,,,,,,,,,,,,,,
+2018,3,YV,Mesa Airlines Inc.,PWM,"Portland, ME: Portland International Jetport",,,,,,,,,,,,,,,
+2018,2,9E,Endeavor Air Inc.,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",,,,,,,,,,,,,,,
+2018,1,EV,ExpressJet Airlines Inc.,MDT,"Harrisburg, PA: Harrisburg International",,,,,,,,,,,,,,,
+2018,1,MQ,Envoy Air,BDL,"Hartford, CT: Bradley International",,,,,,,,,,,,,,,
+2018,1,YX,Republic Airline,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",,,,,,,,,,,,,,,
+2017,12,EV,ExpressJet Airlines Inc.,ABI,"Abilene, TX: Abilene Regional",,,,,,,,,,,,,,,
+2017,11,OO,SkyWest Airlines Inc.,PWM,"Portland, ME: Portland International Jetport",,,,,,,,,,,,,,,
+2017,10,EV,ExpressJet Airlines Inc.,ALB,"Albany, NY: Albany International",,,,,,,,,,,,,,,
+2017,10,EV,ExpressJet Airlines Inc.,JFK,"New York, NY: John F. Kennedy International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017,9,DL,Delta Air Lines Inc.,JNU,"Juneau, AK: Juneau International",,,,,,,,,,,,,,,
+2017,9,EV,ExpressJet Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017,9,EV,ExpressJet Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017,9,OO,SkyWest Airlines Inc.,SIT,"Sitka, AK: Sitka Rocky Gutierrez",,,,,,,,,,,,,,,
+2017,9,UA,United Air Lines Inc.,EGE,"Eagle, CO: Eagle County Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017,7,EV,ExpressJet Airlines Inc.,GUC,"Gunnison, CO: Gunnison-Crested Butte Regional",,,,,,,,,,,,,,,
+2017,6,EV,ExpressJet Airlines Inc.,GTR,"Columbus, MS: Golden Triangle Regional",,,,,,,,,,,,,,,
+2017,5,DL,Delta Air Lines Inc.,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",,,,,,,,,,,,,,,
+2017,5,VX,Virgin America,SLC,"Salt Lake City, UT: Salt Lake City International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2017,4,DL,Delta Air Lines Inc.,BMI,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",,,,,,,,,,,,,,,
+2017,1,EV,ExpressJet Airlines Inc.,TKI,"Tokeen, AK: Tokeen Airport",,,,,,,,,,,,,,,
+2016,12,OO,SkyWest Airlines Inc.,PNS,"Pensacola, FL: Pensacola International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2016,12,VX,Virgin America,ONT,"Ontario, CA: Ontario International",,,,,,,,,,,,,,,
+2016,11,OO,SkyWest Airlines Inc.,ENV,"Wendover, UT: Wendover Airport",,,,,,,,,,,,,,,
+2016,11,EV,ExpressJet Airlines Inc.,MIA,"Miami, FL: Miami International",,,,,,,,,,,,,,,
+2016,10,DL,Delta Air Lines Inc.,BGR,"Bangor, ME: Bangor International",,,,,,,,,,,,,,,
+2016,10,DL,Delta Air Lines Inc.,MSO,"Missoula, MT: Missoula International",,,,,,,,,,,,,,,
+2016,10,OO,SkyWest Airlines Inc.,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",,,,,,,,,,,,,,,
+2016,9,AA,American Airlines Inc.,BTV,"Burlington, VT: Burlington International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2016,9,DL,Delta Air Lines Inc.,JNU,"Juneau, AK: Juneau International",,,,,,,,,,,,,,,
+2016,9,EV,ExpressJet Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",,,,,,,,,,,,,,,
+2016,9,EV,ExpressJet Airlines Inc.,RSW,"Fort Myers, FL: Southwest Florida International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2016,9,OO,SkyWest Airlines Inc.,SIT,"Sitka, AK: Sitka Rocky Gutierrez",,,,,,,,,,,,,,,
+2016,8,EV,ExpressJet Airlines Inc.,ISN,"Williston, ND: Sloulin Field International",,,,,,,,,,,,,,,
+2016,8,EV,ExpressJet Airlines Inc.,EFD,"Houston, TX: Ellington",,,,,,,,,,,,,,,
+2016,7,OO,SkyWest Airlines Inc.,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2016,7,UA,United Air Lines Inc.,JAX,"Jacksonville, FL: Jacksonville International",,,,,,,,,,,,,,,
+2016,6,OO,SkyWest Airlines Inc.,GCK,"Garden City, KS: Garden City Regional",,,,,,,,,,,,,,,
+2016,5,EV,ExpressJet Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake City International",,,,,,,,,,,,,,,
+2016,5,OO,SkyWest Airlines Inc.,BFF,"Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",,,,,,,,,,,,,,,
+2016,5,OO,SkyWest Airlines Inc.,MOB,"Mobile, AL: Mobile Regional",,,,,,,,,,,,,,,
+2016,5,OO,SkyWest Airlines Inc.,EVV,"Evansville, IN: Evansville Regional",,,,,,,,,,,,,,,
+2016,3,DL,Delta Air Lines Inc.,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",,,,,,,,,,,,,,,
+2015,12,OO,SkyWest Airlines Inc.,JNU,"Juneau, AK: Juneau International",,,,,,,,,,,,,,,
+2015,12,OO,SkyWest Airlines Inc.,HRL,"Harlingen/San Benito, TX: Valley International",,,,,,,,,,,,,,,
+2015,11,DL,Delta Air Lines Inc.,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",,,,,,,,,,,,,,,
+2015,11,DL,Delta Air Lines Inc.,DLH,"Duluth, MN: Duluth International",,,,,,,,,,,,,,,
+2015,11,MQ,Envoy Air,BPT,"Beaumont/Port Arthur, TX: Jack Brooks Regional",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015,9,DL,Delta Air Lines Inc.,JNU,"Juneau, AK: Juneau International",,,,,,,,,,,,,,,
+2015,9,DL,Delta Air Lines Inc.,BTV,"Burlington, VT: Burlington International",,,,,,,,,,,,,,,
+2015,5,VX,Virgin America,TUL,"Tulsa, OK: Tulsa International",,,,,,,,,,,,,,,
+2015,3,DL,Delta Air Lines Inc.,PHF,"Newport News/Williamsburg, VA: Newport News/Williamsburg International",,,,,,,,,,,,,,,
+2015,3,EV,ExpressJet Airlines Inc.,BGR,"Bangor, ME: Bangor International",,,,,,,,,,,,,,,
+2015,3,MQ,Envoy Air,GUC,"Gunnison, CO: Gunnison-Crested Butte Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2015,3,OO,SkyWest Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",,,,,,,,,,,,,,,
+2015,3,UA,United Air Lines Inc.,STL,"St. Louis, MO: St Louis Lambert International",,,,,,,,,,,,,,,
+2015,1,EV,ExpressJet Airlines Inc.,PHX,"Phoenix, AZ: Phoenix Sky Harbor International",,,,,,,,,,,,,,,
+2015,1,OO,SkyWest Airlines Inc.,EVV,"Evansville, IN: Evansville Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2014,12,DL,Delta Air Lines Inc.,TVC,"Traverse City, MI: Cherry Capital",,,,,,,,,,,,,,,
+2014,12,EV,ExpressJet Airlines Inc.,MCN,"Macon, GA: Middle Georgia Regional",,,,,,,,,,,,,,,
+2014,12,F9,Frontier Airlines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",,,,,,,,,,,,,,,
+2014,12,F9,Frontier Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",,,,,,,,,,,,,,,
+2014,12,UA,United Air Lines Inc.,BNA,"Nashville, TN: Nashville International",,,,,,,,,,,,,,,
+2014,11,FL,AirTran Airways Corporation,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",,,,,,,,,,,,,,,
+2014,11,DL,Delta Air Lines Inc.,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",,,,,,,,,,,,,,,
+2014,11,EV,ExpressJet Airlines Inc.,HDN,"Hayden, CO: Yampa Valley",,,,,,,,,,,,,,,
+2014,10,AA,American Airlines Inc.,EGE,"Eagle, CO: Eagle County Regional",,,,,,,,,,,,,,,
+2014,10,F9,Frontier Airlines Inc.,ANC,"Anchorage, AK: Ted Stevens Anchorage International",,,,,,,,,,,,,,,
+2014,10,OO,SkyWest Airlines Inc.,GFK,"Grand Forks, ND: Grand Forks International",,,,,,,,,,,,,,,
+2014,7,EV,ExpressJet Airlines Inc.,PUB,"Pueblo, CO: Pueblo Memorial",,,,,,,,,,,,,,,
+2014,6,EV,ExpressJet Airlines Inc.,SWF,"Newburgh/Poughkeepsie, NY: New York Stewart International",,,,,,,,,,,,,,,
+2014,5,EV,ExpressJet Airlines Inc.,BZN,"Bozeman, MT: Bozeman Yellowstone International",,,,,,,,,,,,,,,
+2014,5,EV,ExpressJet Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",,,,,,,,,,,,,,,
+2014,4,DL,Delta Air Lines Inc.,JAC,"Jackson, WY: Jackson Hole",,,,,,,,,,,,,,,
+2014,4,F9,Frontier Airlines Inc.,LAN,"Lansing, MI: Capital Region International",,,,,,,,,,,,,,,
+2014,4,OO,SkyWest Airlines Inc.,HDN,"Hayden, CO: Yampa Valley",,,,,,,,,,,,,,,
+2014,4,UA,United Air Lines Inc.,JAC,"Jackson, WY: Jackson Hole",,,,,,,,,,,,,,,
+2014,4,UA,United Air Lines Inc.,BZN,"Bozeman, MT: Bozeman Yellowstone International",,,,,,,,,,,,,,,
+2014,3,DL,Delta Air Lines Inc.,MOT,"Minot, ND: Minot International",,,,,,,,,,,,,,,
+2014,3,OO,SkyWest Airlines Inc.,GFK,"Grand Forks, ND: Grand Forks International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2014,1,OO,SkyWest Airlines Inc.,BRO,"Brownsville, TX: Brownsville South Padre Island International",,,,,,,,,,,,,,,
+2013,12,EV,ExpressJet Airlines Inc.,RKS,"Rock Springs, WY: Southwest Wyoming Regional",,,,,,,,,,,,,,,
+2013,11,EV,ExpressJet Airlines Inc.,DAB,"Daytona Beach, FL: Daytona Beach International",,,,,,,,,,,,,,,
+2013,11,OO,SkyWest Airlines Inc.,TPA,"Tampa, FL: Tampa International",,,,,,,,,,,,,,,
+2013,11,UA,United Air Lines Inc.,SPN,"Saipan, TT: Francisco C. Ada Saipan International",,,,,,,,,,,,,,,
+2013,10,EV,ExpressJet Airlines Inc.,HOU,"Houston, TX: William P Hobby",,,,,,,,,,,,,,,
+2013,10,OO,SkyWest Airlines Inc.,LSE,"La Crosse, WI: La Crosse Regional",,,,,,,,,,,,,,,
+2013,9,F9,Frontier Airlines Inc.,MTJ,"Montrose/Delta, CO: Montrose Regional",,,,,,,,,,,,,,,
+2013,9,YV,Mesa Airlines Inc.,FAY,"Fayetteville, NC: Fayetteville Regional/Grannis Field",,,,,,,,,,,,,,,
+2013,9,EV,ExpressJet Airlines Inc.,TPA,"Tampa, FL: Tampa International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2013,8,MQ,American Eagle Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",,,,,,,,,,,,,,,
+2013,7,F9,Frontier Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",,,,,,,,,,,,,,,
+2013,7,OO,SkyWest Airlines Inc.,PIA,"Peoria, IL: General Downing - Peoria International",,,,,,,,,,,,,,,
+2013,6,YV,Mesa Airlines Inc.,BFL,"Bakersfield, CA: Meadows Field",,,,,,,,,,,,,,,
+2013,6,EV,ExpressJet Airlines Inc.,CYS,"Cheyenne, WY: Cheyenne Regional/Jerry Olson Field",,,,,,,,,,,,,,,
+2013,5,EV,ExpressJet Airlines Inc.,MOT,"Minot, ND: Minot International",,,,,,,,,,,,,,,
+2013,5,OO,SkyWest Airlines Inc.,HDN,"Hayden, CO: Yampa Valley",,,,,,,,,,,,,,,
+2013,4,AA,American Airlines Inc.,JAC,"Jackson, WY: Jackson Hole",,,,,,,,,,,,,,,
+2013,4,F9,Frontier Airlines Inc.,MCN,"Macon, GA: Middle Georgia Regional",,,,,,,,,,,,,,,
+2013,1,9E,Pinnacle Airlines Inc.,AVL,"Asheville, NC: Asheville Regional",,,,,,,,,,,,,,,
+2013,1,EV,ExpressJet Airlines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",,,,,,,,,,,,,,,
+2013,1,OO,SkyWest Airlines Inc.,LGA,"New York, NY: LaGuardia",,,,,,,,,,,,,,,
+2012,12,EV,ExpressJet Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",,,,,,,,,,,,,,,
+2012,12,EV,ExpressJet Airlines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",,,,,,,,,,,,,,,
+2012,12,F9,Frontier Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",,,,,,,,,,,,,,,
+2012,12,F9,Frontier Airlines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",,,,,,,,,,,,,,,
+2012,12,F9,Frontier Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",,,,,,,,,,,,,,,
+2012,12,US,US Airways Inc.,ELP,"El Paso, TX: El Paso International",,,,,,,,,,,,,,,
+2012,10,DL,Delta Air Lines Inc.,JAC,"Jackson, WY: Jackson Hole",,,,,,,,,,,,,,,
+2012,10,F9,Frontier Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",,,,,,,,,,,,,,,
+2012,9,F9,Frontier Airlines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",,,,,,,,,,,,,,,
+2012,9,UA,United Air Lines Inc.,BQN,"Aguadilla, PR: Rafael Hernandez",,,,,,,,,,,,,,,
+2012,8,EV,ExpressJet Airlines Inc.,LWB,"Lewisburg, WV: Greenbrier Valley",,,,,,,,,,,,,,,
+2012,8,UA,United Air Lines Inc.,BQN,"Aguadilla, PR: Rafael Hernandez",,,,,,,,,,,,,,,
+2012,7,UA,United Air Lines Inc.,BQN,"Aguadilla, PR: Rafael Hernandez",,,,,,,,,,,,,,,
+2012,7,UA,United Air Lines Inc.,MFE,"Mission/McAllen/Edinburg, TX: McAllen Miller International",,,,,,,,,,,,,,,
+2012,6,OO,SkyWest Airlines Inc.,BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",,,,,,,,,,,,,,,
+2012,6,UA,United Air Lines Inc.,BQN,"Aguadilla, PR: Rafael Hernandez",,,,,,,,,,,,,,,
+2012,5,EV,ExpressJet Airlines Inc.,BGR,"Bangor, ME: Bangor International",,,,,,,,,,,,,,,
+2012,5,OO,SkyWest Airlines Inc.,SBN,"South Bend, IN: South Bend International",,,,,,,,,,,,,,,
+2012,5,UA,United Air Lines Inc.,BQN,"Aguadilla, PR: Rafael Hernandez",,,,,,,,,,,,,,,
+2012,4,UA,United Air Lines Inc.,BQN,"Aguadilla, PR: Rafael Hernandez",,,,,,,,,,,,,,,
+2012,1,YV,Mesa Airlines Inc.,SBN,"South Bend, IN: South Bend International",,,,,,,,,,,,,,,
+2011,10,DL,Delta Air Lines Inc.,AGS,"Augusta, GA: Augusta Regional at Bush Field",,,,,,,,,,,,,,,
+2011,10,XE,ExpressJet Airlines Inc.,EFD,"Houston, TX: Ellington",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011,10,YV,Mesa Airlines Inc.,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011,9,OO,SkyWest Airlines Inc.,ROW,"Roswell, NM: Roswell International Air Center",,,,,,,,,,,,,,,
+2011,8,CO,Continental Air Lines Inc.,ELP,"El Paso, TX: El Paso International",,,,,,,,,,,,,,,
+2011,7,EV,Atlantic Southeast Airlines,LNK,"Lincoln, NE: Lincoln Airport",,,,,,,,,,,,,,,
+2011,7,EV,Atlantic Southeast Airlines,RIC,"Richmond, VA: Richmond International",,,,,,,,,,,,,,,
+2011,7,OO,SkyWest Airlines Inc.,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",,,,,,,,,,,,,,,
+2011,7,XE,ExpressJet Airlines Inc.,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011,6,OO,SkyWest Airlines Inc.,BGM,"Binghamton, NY: Greater Binghamton/Edwin A. Link Field",,,,,,,,,,,,,,,
+2011,6,US,US Airways Inc.,IAD,"Washington, DC: Washington Dulles International",,,,,,,,,,,,,,,
+2011,6,XE,ExpressJet Airlines Inc.,BFF,"Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2011,5,DL,Delta Air Lines Inc.,HOU,"Houston, TX: William P Hobby",,,,,,,,,,,,,,,
+2011,5,EV,Atlantic Southeast Airlines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",,,,,,,,,,,,,,,
+2011,4,CO,Continental Air Lines Inc.,SPN,"Saipan, TT: Francisco C. Ada Saipan International",,,,,,,,,,,,,,,
+2011,4,XE,ExpressJet Airlines Inc.,SPI,"Springfield, IL: Abraham Lincoln Capital",,,,,,,,,,,,,,,
+2011,3,B6,JetBlue Airways,ORF,"Norfolk, VA: Norfolk International",,,,,,,,,,,,,,,
+2011,2,YV,Mesa Airlines Inc.,ATW,"Appleton, WI: Appleton International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,12,B6,JetBlue Airways,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",,,,,,,,,,,,,,,
+2010,11,9E,Pinnacle Airlines Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",,,,,,,,,,,,,,,
+2010,11,OH,Comair Inc.,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",,,,,,,,,,,,,,,
+2010,11,OH,Comair Inc.,SAT,"San Antonio, TX: San Antonio International",,,,,,,,,,,,,,,
+2010,10,EV,Atlantic Southeast Airlines,FSM,"Fort Smith, AR: Fort Smith Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,10,F9,Frontier Airlines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",,,,,,,,,,,,,,,
+2010,10,OH,Comair Inc.,CAK,"Akron, OH: Akron-Canton Regional",,,,,,,,,,,,,,,
+2010,7,9E,Pinnacle Airlines Inc.,GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",,,,,,,,,,,,,,,
+2010,7,9E,Pinnacle Airlines Inc.,TLH,"Tallahassee, FL: Tallahassee International",,,,,,,,,,,,,,,
+2010,7,F9,Frontier Airlines Inc.,GRB,"Green Bay, WI: Green Bay Austin Straubel International",,,,,,,,,,,,,,,
+2010,6,DL,Delta Air Lines Inc.,CAK,"Akron, OH: Akron-Canton Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,6,OO,SkyWest Airlines Inc.,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",,,,,,,,,,,,,,,
+2010,5,OH,Comair Inc.,CAE,"Columbia, SC: Columbia Metropolitan",,,,,,,,,,,,,,,
+2010,3,9E,Pinnacle Airlines Inc.,AGS,"Augusta, GA: Augusta Regional at Bush Field",,,,,,,,,,,,,,,
+2010,3,F9,Frontier Airlines Inc.,COS,"Colorado Springs, CO: City of Colorado Springs Municipal",,,,,,,,,,,,,,,
+2010,3,YV,Mesa Airlines Inc.,OAJ,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,2,YV,Mesa Airlines Inc.,HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,1,OH,Comair Inc.,HTS,"Ashland, WV: Tri-State/Milton J. Ferguson Field",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,1,OO,SkyWest Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",,,,,,,,,,,,,,,
+2010,1,US,US Airways Inc.,AUS,"Austin, TX: Austin - Bergstrom International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2010,1,YV,Mesa Airlines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2009,12,EV,Atlantic Southeast Airlines,FSD,"Sioux Falls, SD: Joe Foss Field",,,,,,,,,,,,,,,
+2009,12,F9,Frontier Airlines Inc.,GEG,"Spokane, WA: Spokane International",,,,,,,,,,,,,,,
+2009,12,YV,Mesa Airlines Inc.,RKS,"Rock Springs, WY: Southwest Wyoming Regional",,,,,,,,,,,,,,,
+2009,11,EV,Atlantic Southeast Airlines,BTV,"Burlington, VT: Burlington International",,,,,,,,,,,,,,,
+2009,11,OH,Comair Inc.,FNT,"Flint, MI: Bishop International",,,,,,,,,,,,,,,
+2009,11,OO,SkyWest Airlines Inc.,GSP,"Greer, SC: Greenville-Spartanburg International",,,,,,,,,,,,,,,
+2009,11,OO,SkyWest Airlines Inc.,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",,,,,,,,,,,,,,,
+2009,11,YV,Mesa Airlines Inc.,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",,,,,,,,,,,,,,,
+2009,10,EV,Atlantic Southeast Airlines,MKE,"Milwaukee, WI: General Mitchell International",,,,,,,,,,,,,,,
+2009,10,F9,Frontier Airlines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",,,,,,,,,,,,,,,
+2009,10,NW,Northwest Airlines Inc.,SAT,"San Antonio, TX: San Antonio International",,,,,,,,,,,,,,,
+2009,10,OO,SkyWest Airlines Inc.,FNT,"Flint, MI: Bishop International",,,,,,,,,,,,,,,
+2009,10,OO,SkyWest Airlines Inc.,PNS,"Pensacola, FL: Pensacola International",,,,,,,,,,,,,,,
+2009,9,9E,Pinnacle Airlines Inc.,CMX,"Hancock/Houghton, MI: Houghton County Memorial",,,,,,,,,,,,,,,
+2009,9,9E,Pinnacle Airlines Inc.,FSM,"Fort Smith, AR: Fort Smith Regional",,,,,,,,,,,,,,,
+2009,9,9E,Pinnacle Airlines Inc.,HPN,"White Plains, NY: Westchester County",,,,,,,,,,,,,,,
+2009,9,DL,Delta Air Lines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",,,,,,,,,,,,,,,
+2009,9,EV,Atlantic Southeast Airlines,EWR,"Newark, NJ: Newark Liberty International",,,,,,,,,,,,,,,
+2009,9,EV,Atlantic Southeast Airlines,PWM,"Portland, ME: Portland International Jetport",,,,,,,,,,,,,,,
+2009,9,NW,Northwest Airlines Inc.,DLH,"Duluth, MN: Duluth International",,,,,,,,,,,,,,,
+2009,9,NW,Northwest Airlines Inc.,GFK,"Grand Forks, ND: Grand Forks International",,,,,,,,,,,,,,,
+2009,9,NW,Northwest Airlines Inc.,MSO,"Missoula, MT: Missoula International",,,,,,,,,,,,,,,
+2009,9,NW,Northwest Airlines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",,,,,,,,,,,,,,,
+2009,7,9E,Pinnacle Airlines Inc.,HLN,"Helena, MT: Helena Regional",,,,,,,,,,,,,,,
+2009,7,9E,Pinnacle Airlines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",,,,,,,,,,,,,,,
+2009,7,9E,Pinnacle Airlines Inc.,SUX,"Sioux City, IA: Sioux Gateway Brig Gen Bud Day Field",,,,,,,,,,,,,,,
+2009,7,9E,Pinnacle Airlines Inc.,TOL,"Toledo, OH: Toledo Express",,,,,,,,,,,,,,,
+2009,7,9E,Pinnacle Airlines Inc.,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",,,,,,,,,,,,,,,
+2009,7,CO,Continental Air Lines Inc.,SAV,"Savannah, GA: Savannah/Hilton Head International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2009,7,NW,Northwest Airlines Inc.,MBS,"Saginaw/Bay City/Midland, MI: MBS International",,,,,,,,,,,,,,,
+2009,7,OO,SkyWest Airlines Inc.,GSP,"Greer, SC: Greenville-Spartanburg International",,,,,,,,,,,,,,,
+2009,7,UA,United Air Lines Inc.,MIA,"Miami, FL: Miami International",,,,,,,,,,,,,,,
+2009,6,B6,JetBlue Airways,BDL,"Hartford, CT: Bradley International",,,,,,,,,,,,,,,
+2009,6,F9,Frontier Airlines Inc.,RSW,"Fort Myers, FL: Southwest Florida International",,,,,,,,,,,,,,,
+2009,6,OH,Comair Inc.,HTS,"Ashland, WV: Tri-State/Milton J. Ferguson Field",,,,,,,,,,,,,,,
+2009,6,OH,Comair Inc.,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2009,5,OH,Comair Inc.,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",,,,,,,,,,,,,,,
+2009,5,OH,Comair Inc.,HTS,"Ashland, WV: Tri-State/Milton J. Ferguson Field",,,,,,,,,,,,,,,
+2009,5,OH,Comair Inc.,MDT,"Harrisburg, PA: Harrisburg International",,,,,,,,,,,,,,,
+2009,5,OH,Comair Inc.,OKC,"Oklahoma City, OK: Will Rogers World",,,,,,,,,,,,,,,
+2009,4,EV,Atlantic Southeast Airlines,JAX,"Jacksonville, FL: Jacksonville International",,,,,,,,,,,,,,,
+2009,4,OH,Comair Inc.,HOU,"Houston, TX: William P Hobby",,,,,,,,,,,,,,,
+2009,4,UA,United Air Lines Inc.,MTJ,"Montrose/Delta, CO: Montrose Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2009,3,9E,Pinnacle Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2009,3,NW,Northwest Airlines Inc.,VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2009,1,EV,Atlantic Southeast Airlines,CMH,"Columbus, OH: John Glenn Columbus International",,,,,,,,,,,,,,,
+2009,1,EV,Atlantic Southeast Airlines,HOU,"Houston, TX: William P Hobby",,,,,,,,,,,,,,,
+2009,1,OH,Comair Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2009,1,OO,SkyWest Airlines Inc.,MDT,"Harrisburg, PA: Harrisburg International",,,,,,,,,,,,,,,
+2009,1,OO,SkyWest Airlines Inc.,MOB,"Mobile, AL: Mobile Regional",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,11,EV,Atlantic Southeast Airlines,PWM,"Portland, ME: Portland International Jetport",,,,,,,,,,,,,,,
+2008,11,NW,Northwest Airlines Inc.,RAP,"Rapid City, SD: Rapid City Regional",,,,,,,,,,,,,,,
+2008,11,OH,Comair Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",,,,,,,,,,,,,,,
+2008,11,OH,Comair Inc.,ROC,"Rochester, NY: Greater Rochester International",,,,,,,,,,,,,,,
+2008,11,OO,SkyWest Airlines Inc.,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,11,US,US Airways Inc.,SAT,"San Antonio, TX: San Antonio International",,,,,,,,,,,,,,,
+2008,10,9E,Pinnacle Airlines Inc.,GTF,"Great Falls, MT: Great Falls International",,,,,,,,,,,,,,,
+2008,10,CO,Continental Air Lines Inc.,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",,,,,,,,,,,,,,,
+2008,10,EV,Atlantic Southeast Airlines,EWR,"Newark, NJ: Newark Liberty International",,,,,,,,,,,,,,,
+2008,10,EV,Atlantic Southeast Airlines,TPA,"Tampa, FL: Tampa International",,,,,,,,,,,,,,,
+2008,10,MQ,American Eagle Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",,,,,,,,,,,,,,,
+2008,10,MQ,American Eagle Airlines Inc.,SJT,"San Angelo, TX: San Angelo Regional/Mathis Field",,,,,,,,,,,,,,,
+2008,10,MQ,American Eagle Airlines Inc.,SPS,"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",,,,,,,,,,,,,,,
+2008,10,OH,Comair Inc.,EVV,"Evansville, IN: Evansville Regional",,,,,,,,,,,,,,,
+2008,10,OH,Comair Inc.,MEM,"Memphis, TN: Memphis International",,,,,,,,,,,,,,,
+2008,10,OH,Comair Inc.,XNA,"Fayetteville, AR: Northwest Arkansas Regional",,,,,,,,,,,,,,,
+2008,10,XE,ExpressJet Airlines Inc.,CLL,"College Station/Bryan, TX: Easterwood Field",,,,,,,,,,,,,,,
+2008,10,YV,Mesa Airlines Inc.,EUG,"Eugene, OR: Mahlon Sweet Field",,,,,,,,,,,,,,,
+2008,9,DL,Delta Air Lines Inc.,FAI,"Fairbanks, AK: Fairbanks International",,,,,,,,,,,,,,,
+2008,9,EV,Atlantic Southeast Airlines,CHS,"Charleston, SC: Charleston AFB/International",,,,,,,,,,,,,,,
+2008,9,EV,Atlantic Southeast Airlines,GRB,"Green Bay, WI: Green Bay Austin Straubel International",,,,,,,,,,,,,,,
+2008,9,EV,Atlantic Southeast Airlines,IND,"Indianapolis, IN: Indianapolis International",,,,,,,,,,,,,,,
+2008,9,EV,Atlantic Southeast Airlines,MIA,"Miami, FL: Miami International",,,,,,,,,,,,,,,
+2008,9,OH,Comair Inc.,HPN,"White Plains, NY: Westchester County",,,,,,,,,,,,,,,
+2008,9,OH,Comair Inc.,MDT,"Harrisburg, PA: Harrisburg International",,,,,,,,,,,,,,,
+2008,9,OH,Comair Inc.,SCE,"State College, PA: University Park",,,,,,,,,,,,,,,
+2008,9,OH,Comair Inc.,TOL,"Toledo, OH: Toledo Express",,,,,,,,,,,,,,,
+2008,9,OO,SkyWest Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",2.0,,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,9,XE,ExpressJet Airlines Inc.,IDA,"Idaho Falls, ID: Idaho Falls Regional",,,,,,,,,,,,,,,
+2008,8,9E,Pinnacle Airlines Inc.,AGS,"Augusta, GA: Augusta Regional at Bush Field",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,8,9E,Pinnacle Airlines Inc.,ROC,"Rochester, NY: Greater Rochester International",,,,,,,,,,,,,,,
+2008,8,AA,American Airlines Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,8,NW,Northwest Airlines Inc.,LSE,"La Crosse, WI: La Crosse Regional",,,,,,,,,,,,,,,
+2008,8,OH,Comair Inc.,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",,,,,,,,,,,,,,,
+2008,8,OH,Comair Inc.,HPN,"White Plains, NY: Westchester County",,,,,,,,,,,,,,,
+2008,7,CO,Continental Air Lines Inc.,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2008,7,OH,Comair Inc.,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",,,,,,,,,,,,,,,
+2008,7,OH,Comair Inc.,CHA,"Chattanooga, TN: Lovell Field",,,,,,,,,,,,,,,
+2008,7,OH,Comair Inc.,SHV,"Shreveport, LA: Shreveport Regional",,,,,,,,,,,,,,,
+2008,7,XE,ExpressJet Airlines Inc.,PUB,"Pueblo, CO: Pueblo Memorial",,,,,,,,,,,,,,,
+2008,6,F9,Frontier Airlines Inc.,RSW,"Fort Myers, FL: Southwest Florida International",,,,,,,,,,,,,,,
+2008,6,MQ,American Eagle Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",,,,,,,,,,,,,,,
+2008,6,OH,Comair Inc.,DAB,"Daytona Beach, FL: Daytona Beach International",,,,,,,,,,,,,,,
+2008,6,OH,Comair Inc.,ERI,"Erie, PA: Erie International/Tom Ridge Field",,,,,,,,,,,,,,,
+2008,6,OH,Comair Inc.,HPN,"White Plains, NY: Westchester County",,,,,,,,,,,,,,,
+2008,6,OH,Comair Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",,,,,,,,,,,,,,,
+2008,6,OH,Comair Inc.,SWF,"Newburgh/Poughkeepsie, NY: New York Stewart International",,,,,,,,,,,,,,,
+2008,6,OO,SkyWest Airlines Inc.,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2008,6,OO,SkyWest Airlines Inc.,RIC,"Richmond, VA: Richmond International",,,,,,,,,,,,,,,
+2008,5,AA,American Airlines Inc.,GGG,"Longview, TX: East Texas Regional",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,5,EV,Atlantic Southeast Airlines,ISP,"Islip, NY: Long Island MacArthur",,,,,,,,,,,,,,,
+2008,5,EV,Atlantic Southeast Airlines,SCE,"State College, PA: University Park",,,,,,,,,,,,,,,
+2008,5,NW,Northwest Airlines Inc.,SJU,"San Juan, PR: Luis Munoz Marin International",,,,,,,,,,,,,,,
+2008,5,OH,Comair Inc.,CHO,"Charlottesville, VA: Charlottesville Albemarle",,,,,,,,,,,,,,,
+2008,5,OH,Comair Inc.,ROA,"Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",,,,,,,,,,,,,,,
+2008,4,OH,Comair Inc.,MYR,"Myrtle Beach, SC: Myrtle Beach International",,,,,,,,,,,,,,,
+2008,4,OH,Comair Inc.,SGF,"Springfield, MO: Springfield-Branson National",,,,,,,,,,,,,,,
+2008,4,OO,SkyWest Airlines Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",,,,,,,,,,,,,,,
+2008,3,EV,Atlantic Southeast Airlines,DCA,"Washington, DC: Ronald Reagan Washington National",,,,,,,,,,,,,,,
+2008,3,F9,Frontier Airlines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",,,,,,,,,,,,,,,
+2008,3,OH,Comair Inc.,ACY,"Atlantic City, NJ: Atlantic City International",,,,,,,,,,,,,,,
+2008,3,OH,Comair Inc.,CHA,"Chattanooga, TN: Lovell Field",,,,,,,,,,,,,,,
+2008,3,OH,Comair Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",,,,,,,,,,,,,,,
+2008,3,OH,Comair Inc.,MCN,"Macon, GA: Middle Georgia Regional",,,,,,,,,,,,,,,
+2008,3,OO,SkyWest Airlines Inc.,ALB,"Albany, NY: Albany International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,3,OO,SkyWest Airlines Inc.,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,3,OO,SkyWest Airlines Inc.,BMI,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",1.0,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,3,OO,SkyWest Airlines Inc.,CYS,"Cheyenne, WY: Cheyenne Regional/Jerry Olson Field",2.0,,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,3,OO,SkyWest Airlines Inc.,LBB,"Lubbock, TX: Lubbock Preston Smith International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,3,OO,SkyWest Airlines Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,2,9E,Pinnacle Airlines Inc.,CPR,"Casper, WY: Casper/Natrona County International",,,,,,,,,,,,,,,
+2008,2,9E,Pinnacle Airlines Inc.,SAT,"San Antonio, TX: San Antonio International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,2,OH,Comair Inc.,ACY,"Atlantic City, NJ: Atlantic City International",,,,,,,,,,,,,,,
+2008,2,OO,SkyWest Airlines Inc.,ALB,"Albany, NY: Albany International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,2,OO,SkyWest Airlines Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",2.0,,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,2,OO,SkyWest Airlines Inc.,OGD,"Ogden, UT: Ogden-Hinckley",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,1,EV,Atlantic Southeast Airlines,BDL,"Hartford, CT: Bradley International",,,,,,,,,,,,,,,
+2008,1,OH,Comair Inc.,ACY,"Atlantic City, NJ: Atlantic City International",,,,,,,,,,,,,,,
+2008,1,OH,Comair Inc.,CHO,"Charlottesville, VA: Charlottesville Albemarle",,,,,,,,,,,,,,,
+2008,1,OH,Comair Inc.,ROA,"Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",,,,,,,,,,,,,,,
+2008,1,OO,SkyWest Airlines Inc.,AMA,"Amarillo, TX: Rick Husband Amarillo International",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2008,1,OO,SkyWest Airlines Inc.,OGD,"Ogden, UT: Ogden-Hinckley",1.0,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2007,12,EV,Atlantic Southeast Airlines,JFK,"New York, NY: John F. Kennedy International",,,,,,,,,,,,,,,
+2007,11,EV,Atlantic Southeast Airlines,MDW,"Chicago, IL: Chicago Midway International",,,,,,,,,,,,,,,
+2007,11,OH,Comair Inc.,CHA,"Chattanooga, TN: Lovell Field",,,,,,,,,,,,,,,
+2007,11,OH,Comair Inc.,MCN,"Macon, GA: Middle Georgia Regional",,,,,,,,,,,,,,,
+2007,11,OH,Comair Inc.,MLI,"Moline, IL: Quad City International",,,,,,,,,,,,,,,
+2007,10,EV,Atlantic Southeast Airlines,APF,"Naples, FL: Naples Municipal",,,,,,,,,,,,,,,
+2007,10,EV,Atlantic Southeast Airlines,PHL,"Philadelphia, PA: Philadelphia International",,,,,,,,,,,,,,,
+2007,10,OH,Comair Inc.,ACY,"Atlantic City, NJ: Atlantic City International",,,,,,,,,,,,,,,
+2007,10,OH,Comair Inc.,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",,,,,,,,,,,,,,,
+2007,10,OH,Comair Inc.,CHA,"Chattanooga, TN: Lovell Field",,,,,,,,,,,,,,,
+2007,10,OH,Comair Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",,,,,,,,,,,,,,,
+2007,10,OH,Comair Inc.,SBN,"South Bend, IN: South Bend International",,,,,,,,,,,,,,,
+2007,10,OH,Comair Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",,,,,,,,,,,,,,,
+2007,9,OH,Comair Inc.,ACY,"Atlantic City, NJ: Atlantic City International",,,,,,,,,,,,,,,
+2007,9,OH,Comair Inc.,CRW,"Charleston/Dunbar, WV: Yeager",,,,,,,,,,,,,,,
+2007,8,OH,Comair Inc.,ACY,"Atlantic City, NJ: Atlantic City International",,,,,,,,,,,,,,,
+2007,8,OH,Comair Inc.,MCN,"Macon, GA: Middle Georgia Regional",,,,,,,,,,,,,,,
+2007,8,XE,ExpressJet Airlines Inc.,AEX,"Alexandria, LA: Alexandria International",,,,,,,,,,,,,,,
+2007,7,OH,Comair Inc.,ACY,"Atlantic City, NJ: Atlantic City International",,,,,,,,,,,,,,,
+2007,7,OH,Comair Inc.,DEN,"Denver, CO: Denver International",,,,,,,,,,,,,,,
+2007,7,XE,ExpressJet Airlines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",,,,,,,,,,,,,,,
+2007,6,OH,Comair Inc.,ACY,"Atlantic City, NJ: Atlantic City International",,,,,,,,,,,,,,,
+2007,6,OH,Comair Inc.,MLB,"Melbourne, FL: Melbourne International",,,,,,,,,,,,,,,
+2007,5,EV,Atlantic Southeast Airlines,ORD,"Chicago, IL: Chicago O'Hare International",,,,,,,,,,,,,,,
+2007,5,OH,Comair Inc.,ACY,"Atlantic City, NJ: Atlantic City International",,,,,,,,,,,,,,,
+2007,5,OH,Comair Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",,,,,,,,,,,,,,,
+2007,5,OH,Comair Inc.,HTS,"Ashland, WV: Tri-State/Milton J. Ferguson Field",,,,,,,,,,,,,,,
+2007,4,9E,Pinnacle Airlines Inc.,PIA,"Peoria, IL: General Downing - Peoria International",,,,,,,,,,,,,,,
+2007,4,CO,Continental Air Lines Inc.,PSP,"Palm Springs, CA: Palm Springs International",,,,,,,,,,,,,,,
+2007,4,OH,Comair Inc.,FWA,"Fort Wayne, IN: Fort Wayne International",,,,,,,,,,,,,,,
+2007,2,OH,Comair Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",,,,,,,,,,,,,,,
+2007,1,OH,Comair Inc.,AVL,"Asheville, NC: Asheville Regional",,,,,,,,,,,,,,,
+2007,1,OH,Comair Inc.,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",,,,,,,,,,,,,,,
+2006,12,OH,Comair Inc.,FWA,"Fort Wayne, IN: Fort Wayne International",,,,,,,,,,,,,,,
+2006,12,OH,Comair Inc.,SHV,"Shreveport, LA: Shreveport Regional",,,,,,,,,,,,,,,
+2006,12,OH,Comair Inc.,SWF,"Newburgh/Poughkeepsie, NY: New York Stewart International",,,,,,,,,,,,,,,
+2006,11,OH,Comair Inc.,TLH,"Tallahassee, FL: Tallahassee International",,,,,,,,,,,,,,,
+2006,11,OH,Comair Inc.,TOL,"Toledo, OH: Toledo Express",,,,,,,,,,,,,,,
+2006,11,OH,Comair Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",,,,,,,,,,,,,,,
+2006,11,NW,Northwest Airlines Inc.,GSP,"Greer, SC: Greenville-Spartanburg International",,,,,,,,,,,,,,,
+2006,10,DL,Delta Air Lines Inc.,JAC,"Jackson, WY: Jackson Hole",,,,,,,,,,,,,,,
+2006,10,EV,Atlantic Southeast Airlines,BZN,"Bozeman, MT: Bozeman Yellowstone International",,,,,,,,,,,,,,,
+2006,10,EV,Atlantic Southeast Airlines,CMI,"Champaign/Urbana, IL: University of Illinois/Willard",,,,,,,,,,,,,,,
+2006,10,EV,Atlantic Southeast Airlines,LAN,"Lansing, MI: Capital Region International",,,,,,,,,,,,,,,
+2006,9,DL,Delta Air Lines Inc.,FAI,"Fairbanks, AK: Fairbanks International",,,,,,,,,,,,,,,
+2006,9,OH,Comair Inc.,CKB,"Clarksburg/Fairmont, WV: North Central West Virginia",,,,,,,,,,,,,,,
+2006,6,EV,Atlantic Southeast Airlines,BOI,"Boise, ID: Boise Air Terminal",,,,,,,,,,,,,,,
+2006,6,EV,Atlantic Southeast Airlines,OAK,"Oakland, CA: Metropolitan Oakland International",,,,,,,,,,,,,,,
+2006,6,US,US Airways Inc.,ABI,"Abilene, TX: Abilene Regional",,,,,,,,,,,,,,,
+2006,6,US,US Airways Inc.,BGR,"Bangor, ME: Bangor International",,,,,,,,,,,,,,,
+2006,5,OH,Comair Inc.,AVL,"Asheville, NC: Asheville Regional",,,,,,,,,,,,,,,
+2006,5,OH,Comair Inc.,FWA,"Fort Wayne, IN: Fort Wayne International",,,,,,,,,,,,,,,
+2006,5,OH,Comair Inc.,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",,,,,,,,,,,,,,,
+2006,5,OH,Comair Inc.,SBN,"South Bend, IN: South Bend International",,,,,,,,,,,,,,,
+2006,4,RU,ExpressJet Airlines Inc.,SBN,"South Bend, IN: South Bend International",,,,,,,,,,,,,,,
+2006,3,EV,Atlantic Southeast Airlines,ONT,"Ontario, CA: Ontario International",,,,,,,,,,,,,,,
+2006,2,OH,Comair Inc.,GNV,"Gainesville, FL: Gainesville Regional",,,,,,,,,,,,,,,
+2006,2,OH,Comair Inc.,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",,,,,,,,,,,,,,,
+2006,2,OH,Comair Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",,,,,,,,,,,,,,,
+2006,1,EV,Atlantic Southeast Airlines,MCI,"Kansas City, MO: Kansas City International",,,,,,,,,,,,,,,
+2006,1,TZ,ATA Airlines d/b/a ATA,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",,,,,,,,,,,,,,,
+2005,12,CO,Continental Air Lines Inc.,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2005,12,EV,Atlantic Southeast Airlines,ABQ,"Albuquerque, NM: Albuquerque International Sunport",,,,,,,,,,,,,,,
+2005,12,EV,Atlantic Southeast Airlines,PIT,"Pittsburgh, PA: Pittsburgh International",,,,,,,,,,,,,,,
+2005,12,EV,Atlantic Southeast Airlines,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",,,,,,,,,,,,,,,
+2005,12,OH,Comair Inc.,CKB,"Clarksburg/Fairmont, WV: North Central West Virginia",,,,,,,,,,,,,,,
+2005,12,OH,Comair Inc.,HOU,"Houston, TX: William P Hobby",,,,,,,,,,,,,,,
+2005,12,OH,Comair Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",,,,,,,,,,,,,,,
+2005,12,TZ,ATA Airlines d/b/a ATA,MSP,"Minneapolis, MN: Minneapolis-St Paul International",,,,,,,,,,,,,,,
+2005,12,TZ,ATA Airlines d/b/a ATA,ORD,"Chicago, IL: Chicago O'Hare International",,,,,,,,,,,,,,,
+2005,10,NW,Northwest Airlines Inc.,BTV,"Burlington, VT: Burlington International",,,,,,,,,,,,,,,
+2005,10,OH,Comair Inc.,ISP,"Islip, NY: Long Island MacArthur",,,,,,,,,,,,,,,
+2005,10,OH,Comair Inc.,MLI,"Moline, IL: Quad City International",,,,,,,,,,,,,,,
+2005,8,AA,American Airlines Inc.,SHV,"Shreveport, LA: Shreveport Regional",,,,,,,,,,,,,,,
+2005,7,OO,SkyWest Airlines Inc.,SJT,"San Angelo, TX: San Angelo Regional/Mathis Field",,,,,,,,,,,,,,,
+2005,7,OO,SkyWest Airlines Inc.,VCT,"Victoria, TX: Victoria Regional",,,,,,,,,,,,,,,
+2005,6,OO,SkyWest Airlines Inc.,ABI,"Abilene, TX: Abilene Regional",,,,,,,,,,,,,,,
+2005,5,CO,Continental Air Lines Inc.,PSP,"Palm Springs, CA: Palm Springs International",,,,,,,,,,,,,,,
+2005,3,HP,America West Airlines Inc.,BOI,"Boise, ID: Boise Air Terminal",,,,,,,,,,,,,,,
+2004,12,EV,Atlantic Southeast Airlines,RSW,"Fort Myers, FL: Southwest Florida International",,,,,,,,,,,,,,,
+2004,12,OH,Comair Inc.,PVD,"Providence, RI: Theodore Francis Green State",,,,,,,,,,,,,,,
+2004,11,DH,Independence Air,SGF,"Springfield, MO: Springfield-Branson National",,,,,,,,,,,,,,,
+2004,10,CO,Continental Air Lines Inc.,LBB,"Lubbock, TX: Lubbock Preston Smith International",,,,,,,,,,,,,,,
+2004,9,NW,Northwest Airlines Inc.,HLN,"Helena, MT: Helena Regional",,,,,,,,,,,,,,,
+2004,7,OH,Comair Inc.,AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International",,,,,,,,,,,,,,,
+2004,5,NW,Northwest Airlines Inc.,GRB,"Green Bay, WI: Green Bay Austin Straubel International",,,,,,,,,,,,,,,
+2004,5,NW,Northwest Airlines Inc.,LSE,"La Crosse, WI: La Crosse Regional",,,,,,,,,,,,,,,
+2004,5,NW,Northwest Airlines Inc.,TVC,"Traverse City, MI: Cherry Capital",,,,,,,,,,,,,,,
+2004,4,EV,Atlantic Southeast Airlines,LAX,"Los Angeles, CA: Los Angeles International",,,,,,,,,,,,,,,
+2004,3,EV,Atlantic Southeast Airlines,BNA,"Nashville, TN: Nashville International",,,,,,,,,,,,,,,
+2004,3,EV,Atlantic Southeast Airlines,CAK,"Akron, OH: Akron-Canton Regional",,,,,,,,,,,,,,,
+2004,3,TZ,ATA Airlines d/b/a ATA,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",,,,,,,,,,,,,,,
+2004,2,EV,Atlantic Southeast Airlines,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",,,,,,,,,,,,,,,
+2004,2,EV,Atlantic Southeast Airlines,BNA,"Nashville, TN: Nashville International",,,,,,,,,,,,,,,
+2004,2,TZ,ATA Airlines d/b/a ATA,TPA,"Tampa, FL: Tampa International",,,,,,,,,,,,,,,
+2003,9,DL,Delta Air Lines Inc.,JAC,"Jackson, WY: Jackson Hole",,,,,,,,,,,,,,,
+2003,9,RU,ExpressJet Airlines Inc.,TPA,"Tampa, FL: Tampa International",,,,,,,,,,,,,,,
+2003,9,TZ,ATA Airlines d/b/a ATA,ABQ,"Albuquerque, NM: Albuquerque International Sunport",,,,,,,,,,,,,,,
+2003,6,EV,Atlantic Southeast Airlines,ORF,"Norfolk, VA: Norfolk International",,,,,,,,,,,,,,,
+2003,6,EV,Atlantic Southeast Airlines,SWF,"Newburgh/Poughkeepsie, NY: New York Stewart International",,,,,,,,,,,,,,,
+2003,6,HP,America West Airlines Inc.,LGB,"Long Beach, CA: Long Beach Airport",,,,,,,,,,,,,,,
