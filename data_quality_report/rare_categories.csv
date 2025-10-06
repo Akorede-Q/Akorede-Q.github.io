@@ -1,0 +1,466 @@
+column,value,count,pct
+carrier,AQ,253,0.0006353064663149463
+carrier,EM,144,0.00036159735632155046
+carrier,KS,44,0.00011048808109825153
+carrier,9K,15,3.766639128349484e-05
+carrier_name,Aloha Airlines Inc.,253,0.0006353064663149463
+carrier_name,Empire Airlines Inc.,144,0.00036159735632155046
+carrier_name,Peninsula Airways Inc.,44,0.00011048808109825153
+carrier_name,Cape Air,15,3.766639128349484e-05
+airport,YUM,398,0.0009994149153887298
+airport,CPR,397,0.0009969038226364966
+airport,ERI,397,0.0009969038226364966
+airport,SAF,377,0.000946681967591837
+airport,MQT,376,0.0009441708748396039
+airport,BLI,355,0.0008914379270427112
+airport,CSG,352,0.0008839046487860122
+airport,ELM,346,0.0008688380922726143
+airport,COD,343,0.0008613048140159153
+airport,SJT,342,0.0008587937212636823
+airport,SUN,340,0.0008537715357592163
+airport,TYR,339,0.0008512604430069834
+airport,COU,334,0.0008387049792458185
+airport,JNU,330,0.0008286606082368865
+airport,STS,324,0.0008135940517234885
+airport,CMI,321,0.0008060607734667896
+airport,ITH,320,0.0008035496807145565
+airport,LAW,313,0.0007859720314489256
+airport,SIT,305,0.0007658832894310617
+airport,ABI,303,0.0007608611039265958
+airport,ASE,302,0.0007583500111743627
+airport,TXK,302,0.0007583500111743627
+airport,KTN,300,0.0007533278256698967
+airport,FLG,298,0.0007483056401654308
+airport,PSE,295,0.0007407723619087318
+airport,ACT,290,0.0007282168981475669
+airport,RDD,289,0.0007257058053953339
+airport,DHN,280,0.000703105970625237
+airport,OME,280,0.000703105970625237
+airport,OTZ,280,0.000703105970625237
+airport,GTR,278,0.000698083785120771
+airport,BRW,278,0.000698083785120771
+airport,EWN,277,0.000695572692368538
+airport,BQK,274,0.0006880394141118391
+airport,HTS,273,0.000685528321359606
+airport,ABY,272,0.0006830172286073731
+airport,BET,269,0.0006754839503506741
+airport,SCC,268,0.0006729728575984411
+airport,VLD,264,0.0006629284865895092
+airport,ROW,263,0.0006604173938372762
+airport,SGU,263,0.0006604173938372762
+airport,PIH,262,0.0006579063010850432
+airport,TWF,261,0.0006553952083328102
+airport,BTM,260,0.0006528841155805772
+airport,ADQ,260,0.0006528841155805772
+airport,YAK,260,0.0006528841155805772
+airport,WRG,260,0.0006528841155805772
+airport,PSG,260,0.0006528841155805772
+airport,ADK,260,0.0006528841155805772
+airport,CDV,260,0.0006528841155805772
+airport,EKO,260,0.0006528841155805772
+airport,ACV,260,0.0006528841155805772
+airport,GGG,256,0.0006428397445716452
+airport,BPT,255,0.0006403286518194123
+airport,MHK,254,0.0006378175590671792
+airport,SPS,252,0.0006327953735627133
+airport,LWS,249,0.0006252620953060143
+airport,GRI,246,0.0006177288170493154
+airport,SMX,246,0.0006177288170493154
+airport,CDC,246,0.0006177288170493154
+airport,ACY,246,0.0006177288170493154
+airport,ACK,240,0.0006026622605359174
+airport,BGM,238,0.0005976400750314514
+airport,ORH,237,0.0005951289822792185
+airport,MEI,236,0.0005926178895269854
+airport,LYH,225,0.0005649958692524225
+airport,RKS,222,0.0005574625909957236
+airport,GCC,220,0.0005524404054912576
+airport,CMX,212,0.0005323516634733938
+airport,OTH,199,0.0004997074576943649
+airport,PBG,198,0.0004971963649421318
+airport,PFN,198,0.0004971963649421318
+airport,DBQ,192,0.00048212980842873393
+airport,ALO,186,0.000467063251915336
+airport,HHH,183,0.00045952997365863703
+airport,FLO,182,0.00045701888090640404
+airport,PLN,179,0.00044948560264970505
+airport,SUX,177,0.0004444634171452391
+airport,GUM,176,0.0004419523243930061
+airport,BJI,173,0.00043441904613630714
+airport,HOB,171,0.00042939686063184115
+airport,CLD,169,0.00042437467512737516
+airport,JLN,168,0.00042186358237514217
+airport,DLG,167,0.0004193524896229092
+airport,AKN,167,0.0004193524896229092
+airport,RHI,165,0.00041433030411844324
+airport,EAU,162,0.00040679702586174425
+airport,TTN,160,0.00040177484035727826
+airport,MKG,158,0.0003967526548528123
+airport,IAG,158,0.0003967526548528123
+airport,INL,157,0.00039424156210057933
+airport,ABR,157,0.00039424156210057933
+airport,PAH,155,0.00038921937659611335
+airport,GCK,155,0.00038921937659611335
+airport,LAR,150,0.00037666391283494837
+airport,ISN,149,0.0003741528200827154
+airport,DIK,149,0.0003741528200827154
+airport,BRD,148,0.0003716417273304824
+airport,HIB,148,0.0003716417273304824
+airport,IMT,148,0.0003716417273304824
+airport,CKB,147,0.00036913063457824944
+airport,APN,147,0.00036913063457824944
+airport,CEC,143,0.00035908626356931746
+airport,BKG,141,0.0003540640780648515
+airport,CIC,139,0.0003490418925603855
+airport,CIU,139,0.0003490418925603855
+airport,ESC,137,0.00034401970705591955
+airport,LWB,135,0.00033899752155145356
+airport,MVY,134,0.00033648642879922057
+airport,PAE,133,0.0003339753360469876
+airport,MOD,133,0.0003339753360469876
+airport,RFD,130,0.0003264420577902886
+airport,PPG,128,0.0003214198722858226
+airport,DVL,128,0.0003214198722858226
+airport,JMS,128,0.0003214198722858226
+airport,HYS,126,0.00031639768678135667
+airport,IYK,126,0.00031639768678135667
+airport,PIB,124,0.0003113755012768907
+airport,ART,123,0.0003088644085246577
+airport,LBE,121,0.0003038422230201917
+airport,IPL,119,0.0002988200375157257
+airport,PIE,115,0.0002887756665067938
+airport,WYS,103,0.0002586425534799979
+airport,YKM,100,0.0002511092752232989
+airport,PGV,98,0.0002460870897188329
+airport,PVU,96,0.00024106490421436696
+airport,SPN,96,0.00024106490421436696
+airport,SCK,94,0.00023604271870990097
+airport,PSM,93,0.000233531625957668
+airport,PGD,92,0.000231020533205435
+airport,CYS,92,0.000231020533205435
+airport,PUB,91,0.00022850944045320202
+airport,AZA,91,0.00022850944045320202
+airport,BFF,90,0.00022599834770096902
+airport,SWO,89,0.00022348725494873603
+airport,ALW,87,0.00021846506944427007
+airport,STC,85,0.00021344288393980408
+airport,LBF,85,0.00021344288393980408
+airport,PUW,85,0.00021344288393980408
+airport,SBY,85,0.00021344288393980408
+airport,LCK,85,0.00021344288393980408
+airport,EAT,85,0.00021344288393980408
+airport,BLV,85,0.00021344288393980408
+airport,OXR,85,0.00021344288393980408
+airport,USA,85,0.00021344288393980408
+airport,SFB,85,0.00021344288393980408
+airport,HGR,85,0.00021344288393980408
+airport,LBL,84,0.00021093179118757108
+airport,CNY,83,0.00020842069843533812
+airport,VEL,82,0.00020590960568310512
+airport,SLN,82,0.00020590960568310512
+airport,PQI,81,0.00020339851293087213
+airport,PRC,78,0.00019586523467417317
+airport,VCT,78,0.00019586523467417317
+airport,MCN,74,0.0001858208636652412
+airport,LMT,72,0.00018079867816077523
+airport,GST,71,0.00017828758540854223
+airport,XWA,71,0.00017828758540854223
+airport,HVN,68,0.00017075430715184328
+airport,OGS,68,0.00017075430715184328
+airport,MMH,67,0.00016824321439961028
+airport,OGD,66,0.0001657321216473773
+airport,DRT,64,0.0001607099361429113
+airport,OWB,62,0.00015568775063844534
+airport,RIW,61,0.00015317665788621234
+airport,SHD,61,0.00015317665788621234
+airport,SHR,61,0.00015317665788621234
+airport,DDC,60,0.00015066556513397935
+airport,DEC,59,0.00014815447238174635
+airport,CGI,59,0.00014815447238174635
+airport,ILG,55,0.0001381101013728144
+airport,HYA,54,0.0001355990086205814
+airport,EAR,53,0.00013308791586834844
+airport,JST,50,0.00012555463761164946
+airport,LNY,47,0.00011802135935495049
+airport,MKK,47,0.00011802135935495049
+airport,FOD,47,0.00011802135935495049
+airport,MCW,47,0.00011802135935495049
+airport,IPT,44,0.00011048808109825153
+airport,PIR,41,0.00010295480284155256
+airport,APF,36,9.039933908038761e-05
+airport,ATY,34,8.537715357592164e-05
+airport,UST,33,8.286606082368864e-05
+airport,TUP,33,8.286606082368864e-05
+airport,ILE,31,7.784387531922267e-05
+airport,DUT,30,7.533278256698967e-05
+airport,BIH,28,7.03105970625237e-05
+airport,JHM,27,6.77995043102907e-05
+airport,VIS,27,6.77995043102907e-05
+airport,UIN,26,6.528841155805772e-05
+airport,TEX,26,6.528841155805772e-05
+airport,ISO,23,5.775513330135875e-05
+airport,ALS,20,5.022185504465978e-05
+airport,PMD,20,5.022185504465978e-05
+airport,EFD,18,4.519966954019381e-05
+airport,SLE,17,4.268857678796082e-05
+airport,CDB,16,4.0177484035727825e-05
+airport,SOP,15,3.766639128349484e-05
+airport,IFP,14,3.515529853126185e-05
+airport,MWH,13,3.264420577902886e-05
+airport,UTM,13,3.264420577902886e-05
+airport,TBN,13,3.264420577902886e-05
+airport,BFM,13,3.264420577902886e-05
+airport,HKY,10,2.511092752232989e-05
+airport,FOE,9,2.2599834770096904e-05
+airport,ROP,5,1.2555463761164946e-05
+airport,MTH,5,1.2555463761164946e-05
+airport,FMN,3,7.533278256698968e-06
+airport,MGW,2,5.022185504465978e-06
+airport,YNG,1,2.511092752232989e-06
+airport,MKC,1,2.511092752232989e-06
+airport,ENV,1,2.511092752232989e-06
+airport,FNL,1,2.511092752232989e-06
+airport,TKI,1,2.511092752232989e-06
+airport,GLH,1,2.511092752232989e-06
+airport,RCA,1,2.511092752232989e-06
+airport,SKA,1,2.511092752232989e-06
+airport,CBM,1,2.511092752232989e-06
+airport_name,"Yuma, AZ: Yuma MCAS/Yuma International",398,0.0009994149153887298
+airport_name,"Erie, PA: Erie International/Tom Ridge Field",397,0.0009969038226364966
+airport_name,"Casper, WY: Casper/Natrona County International",397,0.0009969038226364966
+airport_name,"Oakland, CA: Metro Oakland International",387,0.0009717928951141668
+airport_name,"Toledo, OH: Toledo Express",387,0.0009717928951141668
+airport_name,"Santa Fe, NM: Santa Fe Municipal",377,0.000946681967591837
+airport_name,"Roanoke, VA: Roanoke Blacksburg Regional",376,0.0009441708748396039
+airport_name,"Bellingham, WA: Bellingham International",355,0.0008914379270427112
+airport_name,"Columbus, GA: Columbus Airport",352,0.0008839046487860122
+airport_name,"Elmira/Corning, NY: Elmira/Corning Regional",346,0.0008688380922726143
+airport_name,"Cody, WY: Yellowstone Regional",343,0.0008613048140159153
+airport_name,"San Angelo, TX: San Angelo Regional/Mathis Field",342,0.0008587937212636823
+airport_name,"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",340,0.0008537715357592163
+airport_name,"Tyler, TX: Tyler Pounds Regional",339,0.0008512604430069834
+airport_name,"Columbia, MO: Columbia Regional",334,0.0008387049792458185
+airport_name,"Juneau, AK: Juneau International",330,0.0008286606082368865
+airport_name,"Marquette, MI: Sawyer International",327,0.0008211273299801874
+airport_name,"Santa Rosa, CA: Charles M. Schulz - Sonoma County",324,0.0008135940517234885
+airport_name,"Manchester, NH: Manchester Boston Regional",322,0.0008085718662190225
+airport_name,"Champaign/Urbana, IL: University of Illinois/Willard",321,0.0008060607734667896
+airport_name,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",313,0.0007859720314489256
+airport_name,"Missoula, MT: Missoula Montana",309,0.0007759276604399936
+airport_name,"Sitka, AK: Sitka Rocky Gutierrez",305,0.0007658832894310617
+airport_name,"Abilene, TX: Abilene Regional",303,0.0007608611039265958
+airport_name,"Texarkana, AR: Texarkana Regional-Webb Field",302,0.0007583500111743627
+airport_name,"Aspen, CO: Aspen Pitkin County Sardy Field",302,0.0007583500111743627
+airport_name,"Ketchikan, AK: Ketchikan International",300,0.0007533278256698967
+airport_name,"Flagstaff, AZ: Flagstaff Pulliam",298,0.0007483056401654308
+airport_name,"Ponce, PR: Mercedita",295,0.0007407723619087318
+airport_name,"Waco, TX: Waco Regional",290,0.0007282168981475669
+airport_name,"Nome, AK: Nome Airport",280,0.000703105970625237
+airport_name,"Kotzebue, AK: Ralph Wien Memorial",280,0.000703105970625237
+airport_name,"Dothan, AL: Dothan Regional",280,0.000703105970625237
+airport_name,"Barrow, AK: Wiley Post/Will Rogers Memorial",278,0.000698083785120771
+airport_name,"Columbus, MS: Golden Triangle Regional",278,0.000698083785120771
+airport_name,"Moline, IL: Quad Cities International",278,0.000698083785120771
+airport_name,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",277,0.000695572692368538
+airport_name,"Brunswick, GA: Brunswick Golden Isles",274,0.0006880394141118391
+airport_name,"Ashland, WV: Tri-State/Milton J. Ferguson Field",273,0.000685528321359606
+airport_name,"Albany, GA: Southwest Georgia Regional",272,0.0006830172286073731
+airport_name,"Bethel, AK: Bethel Airport",269,0.0006754839503506741
+airport_name,"Deadhorse, AK: Deadhorse Airport",268,0.0006729728575984411
+airport_name,"Valdosta, GA: Valdosta Regional",264,0.0006629284865895092
+airport_name,"Redding, CA: Redding Municipal",264,0.0006629284865895092
+airport_name,"St. George, UT: St George Regional",263,0.0006604173938372762
+airport_name,"Pocatello, ID: Pocatello Regional",262,0.0006579063010850432
+airport_name,"Twin Falls, ID: Joslin Field - Magic Valley Regional",261,0.0006553952083328102
+airport_name,"Butte, MT: Bert Mooney",260,0.0006528841155805772
+airport_name,"Elko, NV: Elko Regional",260,0.0006528841155805772
+airport_name,"Kodiak, AK: Kodiak Airport",260,0.0006528841155805772
+airport_name,"Petersburg, AK: Petersburg James A Johnson",260,0.0006528841155805772
+airport_name,"Adak Island, AK: Adak",260,0.0006528841155805772
+airport_name,"Cordova, AK: Merle K Mudhole Smith",260,0.0006528841155805772
+airport_name,"Wrangell, AK: Wrangell Airport",260,0.0006528841155805772
+airport_name,"Arcata/Eureka, CA: California Redwood Coast Humboldt County",260,0.0006528841155805772
+airport_name,"Yakutat, AK: Yakutat Airport",260,0.0006528841155805772
+airport_name,"Longview, TX: East Texas Regional",256,0.0006428397445716452
+airport_name,"Beaumont/Port Arthur, TX: Jack Brooks Regional",255,0.0006403286518194123
+airport_name,"Manhattan/Ft. Riley, KS: Manhattan Regional",254,0.0006378175590671792
+airport_name,"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",252,0.0006327953735627133
+airport_name,"Lewiston, ID: Lewiston Nez Perce County",249,0.0006252620953060143
+airport_name,"Atlantic City, NJ: Atlantic City International",246,0.0006177288170493154
+airport_name,"Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",246,0.0006177288170493154
+airport_name,"Cedar City, UT: Cedar City Regional",246,0.0006177288170493154
+airport_name,"Grand Island, NE: Central Nebraska Regional",246,0.0006177288170493154
+airport_name,"Nantucket, MA: Nantucket Memorial",240,0.0006026622605359174
+airport_name,"Binghamton, NY: Greater Binghamton/Edwin A. Link Field",238,0.0005976400750314514
+airport_name,"Worcester, MA: Worcester Regional",237,0.0005951289822792185
+airport_name,"Meridian, MS: Key Field",236,0.0005926178895269854
+airport_name,"Lynchburg, VA: Lynchburg Regional/Preston Glenn Field",225,0.0005649958692524225
+airport_name,"Rock Springs, WY: Southwest Wyoming Regional",222,0.0005574625909957236
+airport_name,"Hancock/Houghton, MI: Houghton County Memorial",212,0.0005323516634733938
+airport_name,"Ithaca/Cortland, NY: Ithaca Tompkins Regional",210,0.0005273294779689278
+airport_name,"North Bend/Coos Bay, OR: Southwest Oregon Regional",199,0.0004997074576943649
+airport_name,"Panama City, FL: Bay County",198,0.0004971963649421318
+airport_name,"Plattsburgh, NY: Plattsburgh International",198,0.0004971963649421318
+airport_name,"Roswell, NM: Roswell International Air Center",196,0.0004921741794376659
+airport_name,"Dubuque, IA: Dubuque Regional",192,0.00048212980842873393
+airport_name,"Waterloo, IA: Waterloo Regional",186,0.000467063251915336
+airport_name,"Charleston/Dunbar, WV: West Virginia International Yeager",183,0.00045952997365863703
+airport_name,"Hilton Head, SC: Hilton Head Airport",183,0.00045952997365863703
+airport_name,"Florence, SC: Florence Regional",182,0.00045701888090640404
+airport_name,"Pellston, MI: Pellston Regional Airport of Emmet County",179,0.00044948560264970505
+airport_name,"Gillette, WY: Gillette Campbell County",178,0.00044697450989747206
+airport_name,"Sioux City, IA: Sioux Gateway Brig Gen Bud Day Field",177,0.0004444634171452391
+airport_name,"Guam, TT: Guam International",176,0.0004419523243930061
+airport_name,"Bemidji, MN: Bemidji Regional",173,0.00043441904613630714
+airport_name,"Hobbs, NM: Lea County Regional",171,0.00042939686063184115
+airport_name,"Carlsbad, CA: McClellan-Palomar",169,0.00042437467512737516
+airport_name,"Joplin, MO: Joplin Regional",168,0.00042186358237514217
+airport_name,"Dillingham, AK: Dillingham Airport",167,0.0004193524896229092
+airport_name,"King Salmon, AK: King Salmon Airport",167,0.0004193524896229092
+airport_name,"Rhinelander, WI: Rhinelander/Oneida County",165,0.00041433030411844324
+airport_name,"Eau Claire, WI: Chippewa Valley Regional",162,0.00040679702586174425
+airport_name,"Trenton, NJ: Trenton Mercer",160,0.00040177484035727826
+airport_name,"Muskegon, MI: Muskegon County",158,0.0003967526548528123
+airport_name,"Niagara Falls, NY: Niagara Falls International",158,0.0003967526548528123
+airport_name,"Aberdeen, SD: Aberdeen Regional",157,0.00039424156210057933
+airport_name,"International Falls, MN: Falls International Einarson Field",157,0.00039424156210057933
+airport_name,"Paducah, KY: Barkley Regional",155,0.00038921937659611335
+airport_name,"Garden City, KS: Garden City Regional",155,0.00038921937659611335
+airport_name,"Laramie, WY: Laramie Regional",150,0.00037666391283494837
+airport_name,"Dickinson, ND: Dickinson - Theodore Roosevelt Regional",149,0.0003741528200827154
+airport_name,"Williston, ND: Sloulin Field International",149,0.0003741528200827154
+airport_name,"Hibbing, MN: Range Regional",148,0.0003716417273304824
+airport_name,"Brainerd, MN: Brainerd Lakes Regional",148,0.0003716417273304824
+airport_name,"Iron Mountain/Kingsfd, MI: Ford",148,0.0003716417273304824
+airport_name,"Clarksburg/Fairmont, WV: North Central West Virginia",147,0.00036913063457824944
+airport_name,"Alpena, MI: Alpena County Regional",147,0.00036913063457824944
+airport_name,"Crescent City, CA: Jack McNamara Field",143,0.00035908626356931746
+airport_name,"Branson, MO: Branson Airport",141,0.0003540640780648515
+airport_name,"Sault Ste. Marie, MI: Chippewa County International",139,0.0003490418925603855
+airport_name,"Chico, CA: Chico Municipal",139,0.0003490418925603855
+airport_name,"Escanaba, MI: Delta County",137,0.00034401970705591955
+airport_name,"Lewisburg, WV: Greenbrier Valley",135,0.00033899752155145356
+airport_name,"Mission/McAllen/Edinburg, TX: McAllen International",135,0.00033899752155145356
+airport_name,"Martha's Vineyard, MA: Martha's Vineyard Airport",134,0.00033648642879922057
+airport_name,"Modesto, CA: Modesto City-County-Harry Sham Field",133,0.0003339753360469876
+airport_name,"Everett, WA: Snohomish County",133,0.0003339753360469876
+airport_name,"Rockford, IL: Chicago/Rockford International",130,0.0003264420577902886
+airport_name,"Pago Pago, TT: Pago Pago International",128,0.0003214198722858226
+airport_name,"Jamestown, ND: Jamestown Regional",128,0.0003214198722858226
+airport_name,"Devils Lake, ND: Devils Lake Regional",128,0.0003214198722858226
+airport_name,"Hays, KS: Hays Regional",126,0.00031639768678135667
+airport_name,"Inyokern, CA: Inyokern Airport",126,0.00031639768678135667
+airport_name,"Melbourne, FL: Melbourne Orlando International",124,0.0003113755012768907
+airport_name,"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",124,0.0003113755012768907
+airport_name,"Watertown, NY: Watertown International",123,0.0003088644085246577
+airport_name,"Latrobe, PA: Arnold Palmer Regional",121,0.0003038422230201917
+airport_name,"El Centro, CA: Imperial County",119,0.0002988200375157257
+airport_name,"St. Petersburg, FL: St Pete Clearwater International",115,0.0002887756665067938
+airport_name,"Ithaca/Cortland, NY: Ithaca Tompkins International",110,0.0002762202027456288
+airport_name,"West Yellowstone, MT: Yellowstone",103,0.0002586425534799979
+airport_name,"Yakima, WA: Yakima Air Terminal/McAllister Field",100,0.0002511092752232989
+airport_name,"Greenville, NC: Pitt Greenville",98,0.0002460870897188329
+airport_name,"Saipan, TT: Francisco C. Ada Saipan International",96,0.00024106490421436696
+airport_name,"Provo, UT: Provo Municipal",96,0.00024106490421436696
+airport_name,"Portsmouth, NH: Portsmouth International at Pease",93,0.000233531625957668
+airport_name,"Punta Gorda, FL: Punta Gorda Airport",92,0.000231020533205435
+airport_name,"Cheyenne, WY: Cheyenne Regional/Jerry Olson Field",92,0.000231020533205435
+airport_name,"Phoenix, AZ: Phoenix - Mesa Gateway",91,0.00022850944045320202
+airport_name,"Pueblo, CO: Pueblo Memorial",91,0.00022850944045320202
+airport_name,"Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",90,0.00022599834770096902
+airport_name,"Stillwater, OK: Stillwater Regional",89,0.00022348725494873603
+airport_name,"Walla Walla, WA: Walla Walla Regional",87,0.00021846506944427007
+airport_name,"St. Cloud, MN: St. Cloud Regional",85,0.00021344288393980408
+airport_name,"Columbus, OH: Rickenbacker International",85,0.00021344288393980408
+airport_name,"Wenatchee, WA: Pangborn Memorial",85,0.00021344288393980408
+airport_name,"North Platte, NE: North Platte Regional Airport Lee Bird Field",85,0.00021344288393980408
+airport_name,"Pullman, WA: Pullman Moscow Regional",85,0.00021344288393980408
+airport_name,"Salisbury, MD: Salisbury-Ocean City/Wicomico Regional",85,0.00021344288393980408
+airport_name,"Oxnard/Ventura, CA: Oxnard",85,0.00021344288393980408
+airport_name,"Hagerstown, MD: Hagerstown Regional-Richard A. Henson Field",85,0.00021344288393980408
+airport_name,"Concord, NC: Concord Padgett Regional",85,0.00021344288393980408
+airport_name,"Sanford, FL: Orlando Sanford International",85,0.00021344288393980408
+airport_name,"Liberal, KS: Liberal Mid-America Regional",84,0.00021093179118757108
+airport_name,"Vernal, UT: Vernal Regional",82,0.00020590960568310512
+airport_name,"Salina, KS: Salina Regional",82,0.00020590960568310512
+airport_name,"Presque Isle/Houlton, ME: Presque Isle International",81,0.00020339851293087213
+airport_name,"Prescott, AZ: Prescott Regional Ernest A Love Field",78,0.00019586523467417317
+airport_name,"Toledo, OH: Eugene F Kranz Toledo Express",78,0.00019586523467417317
+airport_name,"Victoria, TX: Victoria Regional",78,0.00019586523467417317
+airport_name,"Macon, GA: Middle Georgia Regional",74,0.0001858208636652412
+airport_name,"Klamath Falls, OR: Crater Lake Klamath Regional",72,0.00018079867816077523
+airport_name,"Gustavus, AK: Gustavus Airport",71,0.00017828758540854223
+airport_name,"Williston, ND: Williston Basin International",71,0.00017828758540854223
+airport_name,"New Haven, CT: Tweed New Haven",68,0.00017075430715184328
+airport_name,"Ogdensburg, NY: Ogdensburg International",68,0.00017075430715184328
+airport_name,"Roswell, NM: Roswell Air Center",67,0.00016824321439961028
+airport_name,"Mammoth Lakes, CA: Mammoth Lakes Airport",67,0.00016824321439961028
+airport_name,"Ogden, UT: Ogden-Hinckley",66,0.0001657321216473773
+airport_name,"Del Rio, TX: Del Rio International",64,0.0001607099361429113
+airport_name,"Owensboro, KY: Owensboro Daviess County Regional",62,0.00015568775063844534
+airport_name,"Sheridan, WY: Sheridan County",61,0.00015317665788621234
+airport_name,"Staunton, VA: Shenandoah Valley Regional",61,0.00015317665788621234
+airport_name,"Dodge City, KS: Dodge City Regional",60,0.00015066556513397935
+airport_name,"Cape Girardeau, MO: Cape Girardeau Regional",59,0.00014815447238174635
+airport_name,"Decatur, IL: Decatur Airport",59,0.00014815447238174635
+airport_name,"Moab, UT: Canyonlands Field",57,0.0001431322868772804
+airport_name,"Wilmington, DE: New Castle",55,0.0001381101013728144
+airport_name,"Kearney, NE: Kearney Regional",53,0.00013308791586834844
+airport_name,"Stockton, CA: Stockton Metropolitan",51,0.00012806573036388245
+airport_name,"Johnstown, PA: John Murtha Johnstown-Cambria County",50,0.00012555463761164946
+airport_name,"Marquette, MI: Marquette Sawyer Regional",49,0.00012304354485941646
+airport_name,"Hoolehua, HI: Molokai",47,0.00011802135935495049
+airport_name,"Lanai, HI: Lanai Airport",47,0.00011802135935495049
+airport_name,"Mason City, IA: Mason City Municipal",47,0.00011802135935495049
+airport_name,"Fort Dodge, IA: Fort Dodge Regional",47,0.00011802135935495049
+airport_name,"Williamsport, PA: Williamsport Regional",44,0.00011048808109825153
+airport_name,"Stockton, CA: Stockton Metro",43,0.00010797698834601854
+airport_name,"Belleville, IL: Scott AFB/MidAmerica",43,0.00010797698834601854
+airport_name,"Belleville, IL: Scott AFB MidAmerica St Louis",42,0.00010546589559378554
+airport_name,"Gillette, WY: Northeast Wyoming Regional",42,0.00010546589559378554
+airport_name,"Pierre, SD: Pierre Regional",41,0.00010295480284155256
+airport_name,"Naples, FL: Naples Municipal",36,9.039933908038761e-05
+airport_name,"Watertown, SD: Watertown Regional",34,8.537715357592164e-05
+airport_name,"Tupelo, MS: Tupelo Regional",33,8.286606082368864e-05
+airport_name,"St. Augustine, FL: Northeast Florida Regional",33,8.286606082368864e-05
+airport_name,"Hyannis, MA: Barnstable Municipal-Boardman/Polando Field",33,8.286606082368864e-05
+airport_name,"Riverton/Lander, WY: Riverton Regional",32,8.035496807145565e-05
+airport_name,"Killeen, TX: Skylark Field",31,7.784387531922267e-05
+airport_name,"Unalaska, AK: Unalaska Airport",30,7.533278256698967e-05
+airport_name,"Riverton/Lander, WY: Central Wyoming Regional",29,7.28216898147567e-05
+airport_name,"Bishop, CA: Bishop Airport",28,7.03105970625237e-05
+airport_name,"Kapalua, HI: Kapalua Airport",27,6.77995043102907e-05
+airport_name,"Visalia, CA: Visalia Municipal",27,6.77995043102907e-05
+airport_name,"Telluride, CO: Telluride Regional",26,6.528841155805772e-05
+airport_name,"Quincy, IL: Quincy Regional-Baldwin Field",26,6.528841155805772e-05
+airport_name,"Moab, UT: Canyonlands Regional",26,6.528841155805772e-05
+airport_name,"Redding, CA: Redding Regional",25,6.277731880582473e-05
+airport_name,"Kinston, NC: Kinston Regional Jetport at Stallings Field",23,5.775513330135875e-05
+airport_name,"Hyannis, MA: Cape Cod Gateway",21,5.273294779689277e-05
+airport_name,"Alamosa, CO: San Luis Valley Regional/Bergman Field",20,5.022185504465978e-05
+airport_name,"Palmdale, CA: Palmdale USAF Plant 42",20,5.022185504465978e-05
+airport_name,"Houston, TX: Ellington",18,4.519966954019381e-05
+airport_name,"Salem, OR: McNary Field",17,4.268857678796082e-05
+airport_name,"Cold Bay, AK: Cold Bay Airport",16,4.0177484035727825e-05
+airport_name,"Pinehurst/Southern Pines, NC: Moore County",15,3.766639128349484e-05
+airport_name,"Bullhead City, AZ: Laughlin/Bullhead International",14,3.515529853126185e-05
+airport_name,"Fort Leonard Wood, MO: Waynesville-St. Robert Regional Forney Field",13,3.264420577902886e-05
+airport_name,"Tunica, MS: Tunica Municipal",13,3.264420577902886e-05
+airport_name,"Moses Lake, WA: Grant County International",13,3.264420577902886e-05
+airport_name,"Mobile, AL: Mobile Downtown",12,3.013311302679587e-05
+airport_name,"Hickory, NC: Hickory Regional",10,2.511092752232989e-05
+airport_name,"Topeka, KS: Topeka Regional",9,2.2599834770096904e-05
+airport_name,"Rota, TT: Benjamin Taisacan Manglona International",5,1.2555463761164946e-05
+airport_name,"Marathon, FL: The Florida Keys Marathon International",5,1.2555463761164946e-05
+airport_name,"Farmington, NM: Four Corners Regional",3,7.533278256698968e-06
+airport_name,"Morgantown, WV: Morgantown Municipal Walter L Bill Hart Field",2,5.022185504465978e-06
+airport_name,"Wendover, UT: Wendover Airport",1,2.511092752232989e-06
+airport_name,"Tokeen, AK: Tokeen Airport",1,2.511092752232989e-06
+airport_name,"Spokane, WA: Fairchild AFB",1,2.511092752232989e-06
+airport_name,"Rapid City, SD: Ellsworth AFB",1,2.511092752232989e-06
+airport_name,"Kansas City, MO: Charles B. Wheeler Downtown",1,2.511092752232989e-06
+airport_name,"Greenville, MS: Greenville Mid Delta",1,2.511092752232989e-06
+airport_name,"Mobile, AL: Mobile International",1,2.511092752232989e-06
+airport_name,"Youngstown/Warren, OH: Youngstown-Warren Regional",1,2.511092752232989e-06
+airport_name,"Fort Collins/Loveland, CO: Northern Colorado Regional",1,2.511092752232989e-06
+airport_name,"Columbus, MS: Columbus AFB",1,2.511092752232989e-06
