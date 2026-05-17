@@ -25,25 +25,25 @@
 export const projects = [
   {
     id: 'proj-01',
-    title: 'OurHairitage Academy — Multi-Platform Social Media Analytics',
+    title: 'Cohort Retention Analysis',
     category: 'Analytics',
-    tags: ['Power BI', 'Excel', 'TikTok Analytics', 'Meta Insights', 'LinkedIn Analytics'],
+    tags: ['Power BI', 'SQL Server', 'Excel', 'GitHub'],
     description:
-      'Built a comprehensive cross-platform social media audit spanning TikTok, Instagram, Facebook, LinkedIn, and Twitter/X — surfacing exactly where audience attention lived and where content spend was being wasted.',
+      'Most businesses focus on getting new customers. The real question is how many come back. This project digs into 541,000+ transactions to find exactly where customers are dropping off, which cohorts retain the longest, and what that means for revenue.',
     problem:
-      'OurHairitage Academy had an active social presence across 5 platforms but no unified view of what was working. Content was created by feel, not data, making it impossible to allocate effort efficiently.',
+      'An e-commerce business had years of transaction data but no visibility into how well it was retaining customers over time. Revenue decisions were being made without understanding whether customers were coming back — or quietly disappearing after their first purchase.',
     solution:
-      'Extracted native analytics from each platform, standardised the metrics into a single reporting model in Excel, then built platform-specific dashboards in Power BI with drill-through capability by content type, date range, and format.',
+      'Cleaned and transformed 12 months of raw transactional data in SQL Server, assigning customers to cohorts based on their first purchase month. Built a retention matrix tracking customer behaviour across 37 cohorts, then visualised the findings in a three-page Power BI report featuring a retention heatmap, a Month 0→1 drop-off trend line, and a cohort comparison bar chart. Analysis revealed a steep early drop-off pattern, a loyalty threshold among retained customers, and stronger retention in earlier cohorts — reframing the business problem from acquisition to retention.',
     impact:
-      'Delivered a clear narrative around which platforms drove real engagement vs vanity metrics — giving the brand team a fact-based roadmap to reallocate content effort and budget.',
+      'Identified that 80%+ of customers never return after their first purchase, reframing the business problem from acquisition to retention and revealing exactly where revenue was being lost.',
     metrics: [
-      { label: 'Platforms Audited', value: '5' },
-      { label: 'Weeks of Data Analysed', value: '12+' },
-      { label: 'Reports Delivered', value: '5' },
+      { label: 'Transaction Analyzed', value: '541k' },
+      { label: 'Month 1 Dropp Off Rate', value: '80%' },
+      { label: 'Peak Cohort Retention', value: '42.5%' },
     ],
-    tools: ['Power BI', 'Microsoft Excel', 'TikTok Analytics', 'Meta Business Suite', 'LinkedIn Analytics', 'Twitter/X Analytics'],
+    tools: ['Power BI', 'Microsoft Excel', 'SQL Server'],
     image: null,
-    github: null,
+    github: 'https://github.com/Akorede-Q/Cohort-Retention-Analysis',
     live: null,
     featured: true,
   },
