@@ -37,7 +37,7 @@ const contactLinks = [
   {
     icon: FiTwitter,
     label: 'Twitter / X',
-    value: '@LegitCash5',
+    value: 'LegitCash5',
     href: 'https://twitter.com/LegitCash5',
     color: '#1DA1F2',
   },
