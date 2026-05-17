@@ -6,7 +6,7 @@ export const experiences = [
     role: 'Freelance Data Analyst',
     company: 'Tribe Consult',
     type: 'Freelance · Consulting',
-    period: '2023 — Present',
+    period: '2026 — Present',
     location: 'Nigeria',
     description:
       'Embedded with a brand strategy consultancy, delivering data-driven insights across multiple client verticals. Responsible for everything from data collection strategy to final stakeholder reports.',
@@ -23,7 +23,7 @@ export const experiences = [
     role: 'Data Analysis Mentorship Programme',
     company: 'Mentored by UK-Based Finance Professional',
     type: 'Structured Training · 6 Months',
-    period: '2022 — 2023',
+    period: '2025',
     location: 'Remote',
     description:
       'Completed an intensive 6-month structured mentorship programme with a UK-based banking professional, covering advanced Excel, business intelligence tools, and data storytelling methodology.',
@@ -40,7 +40,7 @@ export const experiences = [
     role: 'Self-Directed Learning — Data Analysis',
     company: 'Independent',
     type: 'Self-Taught',
-    period: '2021 — 2022',
+    period: '2024 — 2025',
     location: 'Nigeria',
     description:
       'Committed fully to learning data analysis after investing in a personal computer — one of the most pivotal decisions in my career. Built foundational skills through structured online learning, project work, and community engagement.',
