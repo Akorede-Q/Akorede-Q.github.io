@@ -11,12 +11,15 @@ export const experiences = [
     description:
       'Embedded with a brand strategy consultancy, delivering data-driven insights across multiple client verticals. Responsible for everything from data collection strategy to final stakeholder reports.',
     achievements: [
-      'Delivered multi-platform social media analytics audits for clients across lifestyle and education verticals.',
-      'Designed and built custom Power BI dashboards reducing client reporting time by 60%.',
-      'Developed a standardised analytics framework used across all consultancy engagements.',
-      'Collaborated directly with the CEO and brand strategists to translate business questions into clear data briefs.',
-    ],
-    tools: ['Power BI', 'Excel', 'SQL', 'Google Analytics', 'Meta Business Suite'],
+  'Conducted multi-platform social media audits across LinkedIn, TikTok, and Facebook — analysing content performance, audience segmentation, follower growth patterns, and engagement behaviour across 90+ days of data per platform.',
+  'Identified that a single post drove 43% of total LinkedIn impressions (5,460 of 12,599) for a client, surfacing a replicable content formula that directly shaped the 3-month execution strategy.',
+  'Reframed a perceived shareability gap as a content consistency problem after discovering 57% of all organic shares originated from one post — changing the strategic recommendation and making it more actionable.',
+  'Revealed through audience segmentation that a client\'s top follower locations were diaspora cities (London, New York, Toronto) rather than the target African market — directly informing content direction and partnership strategy.',
+  'Conducted a full TikTok account audit (16 months, 214 videos) and identified outbound comment activity as the primary growth driver — correlating 101 comments posted in February 2026 with 628 new followers, the account\'s highest-ever monthly growth.',
+  'Designed and implemented a 7-stage CRM sales pipeline on HubSpot, enabling prospect conversion tracking and drop-off analysis — giving the team visibility into the sales funnel for the first time.',
+  'Developed prospect research and strategic briefing documents to support client conversion calls, including competitive positioning analysis, audience gap identification, and performance benchmarking.',
+],
+    tools: ['Power Bi', 'Excel', 'Google Analytics', 'Meta Business Suite'],
   },
   {
     id: 'exp-02',
