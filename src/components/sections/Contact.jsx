@@ -9,43 +9,43 @@ import SectionHeader from '../ui/SectionHeader'
 import { fadeLeft, fadeRight, fadeUp, staggerContainer, viewportConfig } from '../../utils/animations'
 
 // ── Update these with real contact details ────────────────────────────────────
-const CONTACT_EMAIL = 'your@email.com'
-const WHATSAPP_NUM  = '+2348000000000'   // with country code, no spaces
+const CONTACT_EMAIL = 'waheedakorede0@gmail.com'
+const WHATSAPP_NUM  = '+2347050308357'   // with country code, no spaces
 
 const contactLinks = [
   {
     icon: FiMail,
     label: 'Email',
-    value: CONTACT_EMAIL,
-    href: `mailto:${CONTACT_EMAIL}`,
+    value: Waheedakorede0@gmail.com,
+    href: `mailto:${waheedakorede0@gmail.com}`,
     color: '#00E5CC',
   },
   {
     icon: FiLinkedin,
     label: 'LinkedIn',
-    value: 'linkedin.com/in/your-handle',
-    href: 'https://linkedin.com/in/your-handle',
+    value: 'linkedin.com/in/akoredewaheed',
+    href: 'https://linkedin.com/in/akoredewaheed',
     color: '#0A66C2',
   },
   {
     icon: FiGithub,
     label: 'GitHub',
-    value: 'github.com/your-handle',
-    href: 'https://github.com/your-handle',
+    value: 'github.com/Akorede-Q',
+    href: 'https://github.com/Akorede-Q',
     color: '#6E40C9',
   },
   {
     icon: FiTwitter,
     label: 'Twitter / X',
-    value: '@your-handle',
-    href: 'https://twitter.com/your-handle',
+    value: '@LegitCash5',
+    href: 'https://twitter.com/LegitCash5',
     color: '#1DA1F2',
   },
   {
     icon: MdWhatsapp,
     label: 'WhatsApp',
-    value: WHATSAPP_NUM,
-    href: `https://wa.me/${WHATSAPP_NUM.replace(/\D/g, '')}`,
+    value: +2347050308357,
+    href: `https://wa.me/${+2347050308357.replace(/\D/g, '')}`,
     color: '#25D366',
   },
 ]
