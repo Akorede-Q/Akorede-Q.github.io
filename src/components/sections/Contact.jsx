@@ -8,16 +8,15 @@ import { MdWhatsapp } from 'react-icons/md'
 import SectionHeader from '../ui/SectionHeader'
 import { fadeLeft, fadeRight, fadeUp, staggerContainer, viewportConfig } from '../../utils/animations'
 
-// ── Update these with real contact details ────────────────────────────────────
 const CONTACT_EMAIL = 'waheedakorede0@gmail.com'
-const WHATSAPP_NUM  = '+2347050308357'   // with country code, no spaces
+const WHATSAPP_NUM  = '+2347050308357'
 
 const contactLinks = [
   {
     icon: FiMail,
     label: 'Email',
     value: 'Waheedakorede0@gmail.com',
-    href: `mailto:${waheedakorede0@gmail.com}`,
+    href: `mailto:${CONTACT_EMAIL}`,  // FIX 1: was ${waheedakorede0@gmail.com} (undefined variable)
     color: '#00E5CC',
   },
   {
@@ -44,16 +43,15 @@ const contactLinks = [
   {
     icon: MdWhatsapp,
     label: 'WhatsApp',
-    value: +2347050308357,
-    href: `https://wa.me/${+2347050308357.replace(/\D/g, '')}`,
+    value: WHATSAPP_NUM,                                       // FIX 2a: was a raw number, not a string
+    href: `https://wa.me/${WHATSAPP_NUM.replace(/\D/g, '')}`, // FIX 2b: .replace() can't run on a number
     color: '#25D366',
   },
 ]
 
-// Simple form — for real form submissions, connect to Formspree/EmailJS
 function ContactForm() {
-  const [form, setForm]       = useState({ name: '', email: '', subject: '', message: '' })
-  const [status, setStatus]   = useState('idle') // idle | sending | success | error
+  const [form, setForm]     = useState({ name: '', email: '', subject: '', message: '' })
+  const [status, setStatus] = useState('idle')
 
   const handleChange = (e) =>
     setForm((f) => ({ ...f, [e.target.name]: e.target.value }))
@@ -62,7 +60,6 @@ function ContactForm() {
     e.preventDefault()
     setStatus('sending')
 
-    // ── To wire up a real form: ───────────────────────────────────────────────
     // Option 1 — Formspree (free): replace YOUR_FORM_ID below and uncomment
     //   const res = await fetch('https://formspree.io/f/YOUR_FORM_ID', {
     //     method: 'POST',
@@ -70,11 +67,7 @@ function ContactForm() {
     //     body: JSON.stringify(form),
     //   })
     //   setStatus(res.ok ? 'success' : 'error')
-    //
-    // Option 2 — EmailJS: follow emailjs.com docs and call emailjs.send()
-    // ─────────────────────────────────────────────────────────────────────────
 
-    // Demo: simulate a successful send after 1.5s
     await new Promise((r) => setTimeout(r, 1500))
     setStatus('success')
     setForm({ name: '', email: '', subject: '', message: '' })
@@ -157,13 +150,12 @@ function ContactForm() {
         />
       </div>
 
-      {/* Submit */}
       <button
         type="submit"
         disabled={status === 'sending' || status === 'success'}
         className="btn-primary justify-center disabled:opacity-60 disabled:cursor-not-allowed"
       >
-        {status === 'idle' && <><FiSend size={15} /> Send Message</>}
+        {status === 'idle'    && <><FiSend size={15} /> Send Message</>}
         {status === 'sending' && (
           <>
             <svg className="animate-spin w-4 h-4" fill="none" viewBox="0 0 24 24">
@@ -174,7 +166,7 @@ function ContactForm() {
           </>
         )}
         {status === 'success' && <><FiCheck size={15} /> Message Sent!</>}
-        {status === 'error' && <><FiAlertCircle size={15} /> Try Again</>}
+        {status === 'error'   && <><FiAlertCircle size={15} /> Try Again</>}
       </button>
 
       {status === 'success' && (
@@ -187,7 +179,6 @@ function ContactForm() {
         </motion.p>
       )}
 
-      {/* Formspree notice */}
       <p className="font-body text-text-muted text-xs text-center">
         Or connect directly via the channels listed →
       </p>
@@ -198,7 +189,6 @@ function ContactForm() {
 export default function Contact() {
   return (
     <section id="contact" className="section-padding relative overflow-hidden">
-      {/* BG */}
       <div
         className="absolute inset-0 pointer-events-none"
         style={{
@@ -215,7 +205,6 @@ export default function Contact() {
 
         <div className="grid lg:grid-cols-2 gap-10 lg:gap-16 max-w-5xl mx-auto">
 
-          {/* ── Left — Links ─────────────────────────────────────────── */}
           <motion.div
             className="flex flex-col gap-6"
             initial="hidden"
@@ -228,12 +217,11 @@ export default function Contact() {
                 Available for freelance & full-time
               </h3>
               <p className="font-body text-text-secondary text-sm leading-relaxed mb-6">
-                I'm currently taking on new clients and open to conversations about full-time data roles. 
+                I'm currently taking on new clients and open to conversations about full-time data roles.
                 Typically respond within 24 hours.
               </p>
             </motion.div>
 
-            {/* Contact channels */}
             <motion.div className="flex flex-col gap-3" variants={staggerContainer}>
               {contactLinks.map((link) => (
                 <motion.a
@@ -246,64 +234,3 @@ export default function Contact() {
                   style={{
                     background: 'rgba(255,255,255,0.025)',
                     border: '1px solid rgba(255,255,255,0.06)',
-                  }}
-                  whileHover={{
-                    borderColor: `${link.color}30`,
-                    background: `${link.color}06`,
-                    y: -2,
-                  }}
-                >
-                  <div
-                    className="w-10 h-10 rounded-lg flex items-center justify-center flex-shrink-0"
-                    style={{ background: `${link.color}15`, border: `1px solid ${link.color}25` }}
-                  >
-                    <link.icon size={17} style={{ color: link.color }} />
-                  </div>
-                  <div>
-                    <p className="font-body text-text-muted text-xs uppercase tracking-wider">{link.label}</p>
-                    <p className="font-body text-text-primary text-sm font-medium group-hover:text-accent transition-colors">
-                      {link.value}
-                    </p>
-                  </div>
-                </motion.a>
-              ))}
-            </motion.div>
-
-            {/* Availability badge */}
-            <motion.div
-              variants={fadeUp}
-              className="flex items-center gap-3 px-4 py-3 rounded-xl"
-              style={{
-                background: 'rgba(0,229,204,0.06)',
-                border: '1px solid rgba(0,229,204,0.15)',
-              }}
-            >
-              <span className="w-2 h-2 rounded-full bg-accent animate-pulse flex-shrink-0" />
-              <p className="font-body text-text-secondary text-sm">
-                <span className="text-accent font-medium">Available now</span> — response time usually under 24 hours
-              </p>
-            </motion.div>
-          </motion.div>
-
-          {/* ── Right — Form ─────────────────────────────────────────── */}
-          <motion.div
-            initial="hidden"
-            whileInView="visible"
-            viewport={viewportConfig}
-            variants={fadeRight}
-            className="rounded-2xl p-6 sm:p-8"
-            style={{
-              background: 'rgba(255,255,255,0.025)',
-              border: '1px solid rgba(255,255,255,0.06)',
-            }}
-          >
-            <h3 className="font-display font-semibold text-lg text-text-primary mb-6">
-              Send a message
-            </h3>
-            <ContactForm />
-          </motion.div>
-        </div>
-      </div>
-    </section>
-  )
-}
