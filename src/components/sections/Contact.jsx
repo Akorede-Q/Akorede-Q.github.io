@@ -57,12 +57,16 @@ function ContactForm() {
     setForm((f) => ({ ...f, [e.target.name]: e.target.value }))
 
   const handleSubmit = async (e) => {
-    e.preventDefault()
-    setStatus('sending')
-    await new Promise((r) => setTimeout(r, 1500))
-    setStatus('success')
-    setForm({ name: '', email: '', subject: '', message: '' })
-  }
+  e.preventDefault()
+  setStatus('sending')
+  const res = await fetch('https://formspree.io/f/xlgvrzgk', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(form),
+  })
+  setStatus(res.ok ? 'success' : 'error')
+  if (res.ok) setForm({ name: '', email: '', subject: '', message: '' })
+}
 
   const inputClass = `
     w-full px-4 py-3 rounded-xl font-body text-sm text-text-primary placeholder-text-muted
