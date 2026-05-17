@@ -48,29 +48,29 @@ export const projects = [
     featured: true,
   },
   {
-    id: 'proj-02',
-    title: 'E-commerce Customer Segmentation & Retention Dashboard',
-    category: 'Growth',
-    tags: ['Python', 'Power BI', 'SQL', 'RFM Analysis'],
-    description:
-      'Segmented 15,000+ customers using RFM analysis in Python, then built an interactive Power BI retention dashboard that helped the team identify at-risk segments before they churned.',
-    problem:
-      'An e-commerce brand was struggling with rising churn and had no way to distinguish loyal customers from one-time buyers hiding in the aggregate sales numbers.',
-    solution:
-      'Used SQL to pull 12 months of order history, ran an RFM (Recency, Frequency, Monetary) segmentation model in Python (pandas), and piped the scored output into a Power BI dashboard with dynamic segment filters and automated monthly refresh.',
-    impact:
-      'The "at-risk" segment (high historical value, declining recency) was identified as 18% of revenue base. A targeted win-back campaign resulted in a measurable lift in repeat purchase rate.',
-    metrics: [
-      { label: 'Customers Segmented', value: '15K+' },
-      { label: 'Revenue at Risk Identified', value: '18%' },
-      { label: 'Repeat Purchase Lift', value: '+23%' },
-    ],
-    tools: ['Python (pandas, seaborn)', 'SQL', 'Power BI', 'Excel'],
-    image: null,
-    github: null,
-    live: null,
-    featured: true,
-  },
+  id: 'proj-02',
+  title: 'Customer Lifetime Value (CLV) Analysis',
+  category: 'Analytics',
+  tags: ['SQL', 'Excel', 'CLV Analysis', 'Retention'],
+  description:
+    'Analysed 99,441 delivered orders from a Brazilian e-commerce dataset to understand customer purchase behaviour and identify opportunities to improve retention and long-term revenue.',
+  problem:
+    'The marketing team needed to understand how to increase customer lifetime value — but had no visibility into whether the revenue problem was driven by low retention, low order value, or insufficient traffic.',
+  solution:
+    'Used SQL Server to analyse 93,358 unique customers across 12 months of delivered orders. Built a full retention and CLV model covering repeat rate, time to second purchase, revenue contribution by segment, and AOV — then segmented customers into high, medium, and low value tiers.',
+  impact:
+    'Discovered that 97% of customers purchased only once, and repeat customers contributed just 5.51% of revenue — proving the problem was retention, not traffic or order value. Modelled that converting just 5% of one-time buyers to repeat purchasers would generate R$620,000+ in additional revenue with zero acquisition spend.',
+  metrics: [
+    { label: 'Orders Analysed', value: '99K+' },
+    { label: 'Additional Revenue Potential', value: 'R$620K+' },
+    { label: 'One-Time Customer Rate', value: '97%' },
+  ],
+  tools: ['SQL Server', 'Excel', 'GitHub'],
+  image: './customer-lifetime-value-analysis.jpg',
+  github: 'https://github.com/Akorede-Q/CLV-Analysis',
+  live: null,
+  featured: true,
+},,
   {
     id: 'proj-03',
     title: 'Marketing Funnel Performance Analysis',
