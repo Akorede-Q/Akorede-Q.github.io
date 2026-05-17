@@ -63,10 +63,10 @@ const stats = [
 ]
 
 const socials = [
-  { icon: FiLinkedin, href: 'https://linkedin.com/in/your-handle', label: 'LinkedIn' },
-  { icon: FiGithub,   href: 'https://github.com/your-handle',    label: 'GitHub' },
-  { icon: FiTwitter,  href: 'https://twitter.com/your-handle',   label: 'Twitter' },
-  { icon: FiMail,     href: 'mailto:your@email.com',             label: 'Email' },
+  { icon: FiLinkedin, href: 'https://linkedin.com/in/akoredewaheed', label: 'LinkedIn' },
+  { icon: FiGithub,   href: 'https://github.com/Akorede-Q',    label: 'GitHub' },
+  { icon: FiTwitter,  href: 'https://twitter.com/LegitCash5',   label: 'Twitter' },
+  { icon: FiMail,     href: 'mailto:waheedakorede0@gmail.com',    label: 'Email' },
 ]
 
 export default function Hero() {
