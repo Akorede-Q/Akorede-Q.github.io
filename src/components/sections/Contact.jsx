@@ -16,7 +16,7 @@ const contactLinks = [
   {
     icon: FiMail,
     label: 'Email',
-    value: Waheedakorede0@gmail.com,
+    value: 'Waheedakorede0@gmail.com',
     href: `mailto:${waheedakorede0@gmail.com}`,
     color: '#00E5CC',
   },
