@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { motion, useInView } from 'framer-motion'
 import { useRef } from 'react'
 import {
-  SiMicrosoftpowerbi, SiMicrosoftexcel, SiPython, SiGoogleanalytics,
+  SiPowerbi, SiMicrosoftexcel, SiPython, SiGoogleanalytics,
 } from 'react-icons/si'
 import {
   MdBarChart, MdDashboard, MdTrendingUp, MdCampaign,
@@ -15,7 +15,7 @@ import { fadeUp, staggerContainer, viewportConfig } from '../../utils/animations
 
 // Icon map
 const iconMap = {
-  SiMicrosoftpowerbi: SiMicrosoftpowerbi,
+  SiPowerbi: SiPowerbi,
   SiMicrosoftexcel: SiMicrosoftexcel,
   SiPython: SiPython,
   SiGoogleanalytics: SiGoogleanalytics,
@@ -39,7 +39,7 @@ const skillCategories = [
     id: 'core',
     label: 'Core Analytics',
     skills: [
-      { name: 'Power BI',          level: 90, icon: 'SiMicrosoftpowerbi', color: '#F2C811' },
+      { name: 'Power BI',          level: 90, icon: 'SiPowerbi', color: '#F2C811' },
       { name: 'Microsoft Excel',   level: 95, icon: 'SiMicrosoftexcel',   color: '#21A366' },
       { name: 'SQL',               level: 85, icon: 'TbSql',              color: '#336791' },
       { name: 'Python',            level: 75, icon: 'SiPython',           color: '#3776AB' },
