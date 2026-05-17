@@ -38,8 +38,8 @@ export const projects = [
       'Identified that 80%+ of customers never return after their first purchase, reframing the business problem from acquisition to retention and revealing exactly where revenue was being lost.',
     metrics: [
       { label: 'Transaction Analyzed', value: '541k' },
-      { label: 'Month 1 Dropp Off Rate', value: '80%' },
-      { label: 'Peak Cohort Retention', value: '42.5%' },
+      { label: 'Month 1 Drop Off Rate', value: '80%' },
+      { label: 'Retention Rate', value: '65.23%' },
     ],
     tools: ['Power BI', 'Microsoft Excel', 'SQL Server'],
     image: null,
