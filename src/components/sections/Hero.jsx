@@ -119,7 +119,7 @@ export default function Hero() {
           className="font-display font-extrabold text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-text-primary tracking-tight mb-4 leading-none"
         >
           Hi, I&rsquo;m{' '}
-          <span className="gradient-text-accent glow-text">Akorede</span>
+          <span className="gradient-text-accent glow-text">Akorede Qoyum</span>
         </motion.h1>
 
         {/* Typewriter role */}
