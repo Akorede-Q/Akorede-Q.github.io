@@ -15,8 +15,8 @@ const contactLinks = [
   {
     icon: FiMail,
     label: 'Email',
-    value: 'Waheedakorede0@gmail.com',
-    href: `mailto:${CONTACT_EMAIL}`,  // FIX 1: was ${waheedakorede0@gmail.com} (undefined variable)
+    value: 'waheedakorede0@gmail.com',
+    href: `mailto:${CONTACT_EMAIL}`,
     color: '#00E5CC',
   },
   {
@@ -43,8 +43,8 @@ const contactLinks = [
   {
     icon: MdWhatsapp,
     label: 'WhatsApp',
-    value: WHATSAPP_NUM,                                       // FIX 2a: was a raw number, not a string
-    href: `https://wa.me/${WHATSAPP_NUM.replace(/\D/g, '')}`, // FIX 2b: .replace() can't run on a number
+    value: WHATSAPP_NUM,
+    href: `https://wa.me/${WHATSAPP_NUM.replace(/\D/g, '')}`,
     color: '#25D366',
   },
 ]
@@ -59,15 +59,6 @@ function ContactForm() {
   const handleSubmit = async (e) => {
     e.preventDefault()
     setStatus('sending')
-
-    // Option 1 — Formspree (free): replace YOUR_FORM_ID below and uncomment
-    //   const res = await fetch('https://formspree.io/f/YOUR_FORM_ID', {
-    //     method: 'POST',
-    //     headers: { 'Content-Type': 'application/json' },
-    //     body: JSON.stringify(form),
-    //   })
-    //   setStatus(res.ok ? 'success' : 'error')
-
     await new Promise((r) => setTimeout(r, 1500))
     setStatus('success')
     setForm({ name: '', email: '', subject: '', message: '' })
@@ -76,14 +67,11 @@ function ContactForm() {
   const inputClass = `
     w-full px-4 py-3 rounded-xl font-body text-sm text-text-primary placeholder-text-muted
     outline-none transition-all duration-200
-    focus:border-accent focus:shadow-glow-sm
   `
-
   const inputStyle = {
     background: 'rgba(255,255,255,0.04)',
     border: '1px solid rgba(255,255,255,0.08)',
   }
-
   const focusStyle = { borderColor: 'rgba(0,229,204,0.4)' }
 
   return (
@@ -204,7 +192,6 @@ export default function Contact() {
         />
 
         <div className="grid lg:grid-cols-2 gap-10 lg:gap-16 max-w-5xl mx-auto">
-
           <motion.div
             className="flex flex-col gap-6"
             initial="hidden"
@@ -234,3 +221,62 @@ export default function Contact() {
                   style={{
                     background: 'rgba(255,255,255,0.025)',
                     border: '1px solid rgba(255,255,255,0.06)',
+                  }}
+                  whileHover={{
+                    borderColor: `${link.color}30`,
+                    background: `${link.color}06`,
+                    y: -2,
+                  }}
+                >
+                  <div
+                    className="w-10 h-10 rounded-lg flex items-center justify-center flex-shrink-0"
+                    style={{ background: `${link.color}15`, border: `1px solid ${link.color}25` }}
+                  >
+                    <link.icon size={17} style={{ color: link.color }} />
+                  </div>
+                  <div>
+                    <p className="font-body text-text-muted text-xs uppercase tracking-wider">{link.label}</p>
+                    <p className="font-body text-text-primary text-sm font-medium group-hover:text-accent transition-colors">
+                      {link.value}
+                    </p>
+                  </div>
+                </motion.a>
+              ))}
+            </motion.div>
+
+            <motion.div
+              variants={fadeUp}
+              className="flex items-center gap-3 px-4 py-3 rounded-xl"
+              style={{
+                background: 'rgba(0,229,204,0.06)',
+                border: '1px solid rgba(0,229,204,0.15)',
+              }}
+            >
+              <span className="w-2 h-2 rounded-full bg-accent animate-pulse flex-shrink-0" />
+              <p className="font-body text-text-secondary text-sm">
+                <span className="text-accent font-medium">Available now</span> — response time usually under 24 hours
+              </p>
+            </motion.div>
+          </motion.div>
+
+          <motion.div
+            initial="hidden"
+            whileInView="visible"
+            viewport={viewportConfig}
+            variants={fadeRight}
+            className="rounded-2xl p-6 sm:p-8"
+            style={{
+              background: 'rgba(255,255,255,0.025)',
+              border: '1px solid rgba(255,255,255,0.06)',
+            }}
+          >
+            <h3 className="font-display font-semibold text-lg text-text-primary mb-6">
+              Send a message
+            </h3>
+            <ContactForm />
+          </motion.div>
+        </div>
+      </div>
+    </section>
+  )
+}
