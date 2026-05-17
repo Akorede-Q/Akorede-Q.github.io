@@ -17,7 +17,7 @@ export default function Projects() {
     <section id="projects" className="section-padding relative">
       {/* BG accent */}
       <div
-        className="absolute right-0 bottom-0 w-96 h-96 rounded-full pointer-events-none opacity-4 blur-3xl"
+        className="absolute right-0 bottom-0 w-96 h-96 rounded-full pointer-events-none opacity-[0.03] blur-3xl"
         style={{ background: '#00E5CC', transform: 'translate(30%, 30%)' }}
       />
 
