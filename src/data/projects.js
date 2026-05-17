@@ -42,7 +42,7 @@ export const projects = [
       { label: 'Retention Rate', value: '65.23%' },
     ],
     tools: ['Power BI', 'Microsoft Excel', 'SQL Server'],
-    image: null,
+    image: './cohortanalysis.png',
     github: 'https://github.com/Akorede-Q/Cohort-Retention-Analysis',
     live: null,
     featured: true,
