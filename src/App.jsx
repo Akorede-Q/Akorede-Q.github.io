@@ -11,7 +11,7 @@ import Contact from './components/sections/Contact'
 
 export default function App() {
   return (
-    <div className="relative bg-bg-primary text-text-primary min-h-screen">
+    <div className="relative bg-bg-primary text-text-primary min-h-screen overflow-x-hidden w-full">
       {/* Global noise texture */}
       <div
         className="fixed inset-0 pointer-events-none z-0 opacity-[0.025]"
